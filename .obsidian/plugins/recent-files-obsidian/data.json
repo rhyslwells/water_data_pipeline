@@ -5,6 +5,10 @@
       "path": "data_storage/GMMC/GMMC.md"
     },
     {
+      "basename": "GMMC-2020-M",
+      "path": "data_storage/GMMC/raw_data/GMMC-2020-M.csv"
+    },
+    {
       "basename": "API REST",
       "path": "API REST.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "linkedin postings",
       "path": "0_Archive/linkedin postings.md"
-    },
-    {
-      "basename": "windows pip install",
-      "path": "0_Archive/software/windows pip install.md"
     }
   ],
   "omittedPaths": [],

@@ -2,7 +2,7 @@ GMMC: Greater Manchester Merseyside and Cheshire
 
 Summary
 
-We have collected both compliance and monitoring data from 2024,2023,2022,2021, and 2020.
+We have collected both monitoring data from 2024,2023,2022,2021, and 2020.
 
 We collected it from https://environment.data.gov.uk/water-quality/view/landing
 

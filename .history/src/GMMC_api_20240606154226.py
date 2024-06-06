@@ -39,10 +39,16 @@ class WaterQualityAPI:
         return response.json()
 
     def get_sampling_point_details(self, sampling_point_id):
-            url = f"{self.base_url}/id/sampling-point/{sampling_point_id}"
-            response = requests.get(url)
-            response.raise_for_status()
-            return response.json()
+        url = f"{self.base_url}/id/sampling-point/{sampling_point_id}"
+        response = requests.get(url)
+        response.raise_for_status()
+        return response.json()
+    
+    def get_sampling_point_details(self, sampling_point_id):
+        url = f"{self.base_url}/id/sampling-point/{sampling_point_id}"
+        response = requests.get(url)
+        response.raise_for_status()
+        return response.json()
 
     def get_monitoring_data(self, area=None, year=None, limit=None):
         url = f"{self.base_url}/data/measurement"
@@ -56,50 +62,9 @@ class WaterQualityAPI:
         response.raise_for_status()
         return response.json()
 
-    def get_compliance_data(self, area=None, year=None, limit=None):
-        url = f"{self.base_url}/data/sample"
-        params = {
-            "area": area,
-            "year": year,
-            "_limit": limit
-        }
-        params = {k: v for k, v in params.items() if v is not None}
-        response = requests.get(url, params=params)
-        response.raise_for_status()
-        return response.json()
-
-    def get_measurements(self, lat=None, long=None, dist=None, easting=None, northing=None, area=None, sub_area=None, year=None, start_date=None, end_date=None, is_compliance_sample=None, purpose=None, sampling_point=None, sampling_point_type=None, determinand=None, determinand_group=None, limit=None, sorted_=None):
-        url = f"{self.base_url}/data/measurement"
-        params = {
-            "lat": lat,
-            "long": long,
-            "dist": dist,
-            "easting": easting,
-            "northing": northing,
-            "area": area,
-            "subArea": sub_area,
-            "year": year,
-            "startDate": start_date,
-            "endDate": end_date,
-            "isComplianceSample": is_compliance_sample,
-            "purpose": purpose,
-            "samplingPoint": sampling_point,
-            "samplingPointType": sampling_point_type,
-            "determinand": determinand,
-            "determinandGroup": determinand_group,
-            "_limit": limit,
-            "_sorted": sorted_
-        }
-        params = {k: v for k, v in params.items() if v is not None}
-        response = requests.get(url, params=params)
-        response.raise_for_status()
-        return response.json()
-
-
 if __name__ == "__main__":
     api = WaterQualityAPI()
-
-    # Define the areas of interest and year
+        # Define the areas of interest and year
     areas = ["Greater Manchester", "Merseyside", "Cheshire"]
     year = 2024
 
@@ -115,10 +80,28 @@ if __name__ == "__main__":
             compliance_data = api.get_compliance_data(area=area, year=year, limit=100)  # Adjust limit as needed
             print(f"Compliance Data for {area} in {year}:", compliance_data)
 
-        # Get measurements data for the specified areas and year
-        for area in areas:
-            measurements_data = api.get_measurements(area=area, year=year, limit=100)  # Adjust limit as needed
-            print(f"Measurements Data for {area} in {year}:", measurements_data)
-
     except requests.exceptions.RequestException as e:
         print(f"An error occurred: {e}")
+
+
+    # # Example usage
+    # try:
+    #     # Get the dates the data has been modified
+    #     modified_dates = api.get_dates_modified(limit=1)
+    #     print("Modified Dates:", modified_dates)
+
+    #     # # Get the date the data has been rebuilt
+    #     # rebuilt_date = api.get_dates_rebuilt()
+    #     # print("Rebuilt Date:", rebuilt_date)
+
+    #     # # List sampling points with search term "clifton"
+    #     # sampling_points = api.list_sampling_points(search="clifton")
+    #     # print("Sampling Points:", sampling_points)
+
+    #     # # Get details for a specific sampling point
+    #     # sampling_point_id = "AN-WOODTON"
+    #     # sampling_point_details = api.get_sampling_point_details(sampling_point_id)
+    #     # print("Sampling Point Details:", sampling_point_details)
+
+    # except requests.exceptions.RequestException as e:
+    #     print(f"An error occurred: {e}")
