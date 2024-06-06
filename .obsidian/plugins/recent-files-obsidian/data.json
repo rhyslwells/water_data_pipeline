@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "GMMC_schema",
-      "path": "data_storage/GMMC/GMMC_schema.sql"
+      "basename": "GMMC",
+      "path": "data_storage/GMMC/GMMC.md"
+    },
+    {
+      "basename": "API REST",
+      "path": "API REST.md"
     },
     {
       "basename": "Recruiter Naomi",
@@ -195,10 +199,6 @@
     {
       "basename": "windows pip install",
       "path": "0_Archive/software/windows pip install.md"
-    },
-    {
-      "basename": "wedding",
-      "path": "0_Archive/wedding.md"
     }
   ],
   "omittedPaths": [],

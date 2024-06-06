@@ -11,8 +11,26 @@
             "id": "07366f85dbecf014",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "data_storage/GMMC/GMMC.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c9b18dad898ac98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "API REST.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +108,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "data_storage/GMMC/GMMC.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -150,7 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "data_storage/GMMC/GMMC.md"
+              }
             }
           },
           {
@@ -159,6 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "data_storage/GMMC/GMMC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,6 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "data_storage/GMMC/GMMC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,8 +226,13 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "c1b62b58193264ce",
+  "active": "07366f85dbecf014",
   "lastOpenFiles": [
+    "src/GMMC_api.py",
+    "API REST.md",
+    "data_storage/GMMC/GMMC.md",
+    "data_storage/GMMC/processed_data/er_diagram.png",
+    "data_storage/GMMC/processed_data/GMMC_schema.sql",
     "data_storage/septic_tanks_scotland/processed_data/septic_tanks_scotland.db-journal",
     "data_storage/septic_tanks_scotland/processed_data/septic_tanks_scotland.db",
     "data_storage/GMMC/processed_data/GMMC-2020-M.db-journal",
@@ -214,8 +242,6 @@
     "data_storage/septic_tanks_scotland/raw_data/Septic_Tanks_-_Scotland.csv",
     "data_storage/septic_tanks_scotland/raw_data",
     "data_storage/septic_tanks_scotland/processed_data",
-    "data_storage/contaiminated_land_scotland/processed_data",
-    "data_storage/contaiminated_land_scotland/raw_data/processed_data",
     "data_storage/GMMC/GMMC_schema.md",
     "1_Inbox/Home.md",
     "Recruiter Naomi.md",
@@ -239,8 +265,6 @@
     "Databases/Optimisation.md",
     "SQL/ACID of Transactions.md",
     "SQL/MySql.md",
-    "4_Engineering/Scaling databases.md",
-    "SQL/SQLite.md",
     "2_Projects/Learning_repo/Learning repo canvas.canvas",
     "0_Archive/imgs/Pasted image 20240411093348.png",
     "0_Archive/imgs/Pasted image 20240524193844.png",
@@ -254,7 +278,6 @@
     "0_Archive/imgs/Pasted image 20240411095614.png",
     "2_Projects/AIS/AIS ideas.canvas",
     "2_Projects/Image_matching/Image matching canvas.canvas",
-    "0_Archive/imgs/Pasted image 20240405173403.png",
     "9_Focus/Exploration.canvas",
     "9_Focus/Pathway.canvas",
     "1_Inbox/Data Science/Admin/Data Science Learning.canvas",
