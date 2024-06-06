@@ -150,13 +150,13 @@ if __name__ == "__main__":
     try:
         # Get monitoring data for the specified areas and year
         for area in areas:
-            monitoring_data = api.get_monitoring_data(area=area, year=year, limit=50)  # Adjust limit as needed
+            monitoring_data = api.get_monitoring_data(area=area, year=year, limit=100)  # Adjust limit as needed
             all_data.extend(monitoring_data.get('items', []))
 
 
         # Get measurements data for the specified areas and year
         for area in areas:
-            measurements_data = api.get_measurements(area=area, year=year, limit=50)  # Adjust limit as needed
+            measurements_data = api.get_measurements(area=area, year=year, limit=100)  # Adjust limit as needed
             all_data.extend(measurements_data.get('items', []))
 
         # Save all data to CSV

@@ -131,7 +131,7 @@ class WaterQualityAPI:
 
 
 # I want to use the Water Quality API to retrieve water quality data for Greater Manchester, Merseyside, and Cheshire 
-# for the year 2020 . Specifically, I will collect monitoring data and measurements data for these areas and for that year.
+# for the year 2020. Specifically, I will collect monitoring data, compliance data, and measurements data for these areas and for that year.
 
 # The retrieved data will be printed to the console for each area and data type. Additionally, I want to store
 #     this data in a CSV file. The CSV file will have the following headers of the downloadable csv file: 
@@ -141,8 +141,7 @@ if __name__ == "__main__":
     api = WaterQualityAPI()
 
     # Define the areas of interest and year
-    # areas = ["Greater Manchester", "Merseyside", "Cheshire"]
-    areas = ["Greater Manchester"]
+    areas = ["Greater Manchester", "Merseyside", "Cheshire"]
     year = 2020
     all_data = []
 
@@ -150,13 +149,17 @@ if __name__ == "__main__":
     try:
         # Get monitoring data for the specified areas and year
         for area in areas:
-            monitoring_data = api.get_monitoring_data(area=area, year=year, limit=50)  # Adjust limit as needed
+            monitoring_data = api.get_monitoring_data(area=area, year=year, limit=100)  # Adjust limit as needed
             all_data.extend(monitoring_data.get('items', []))
 
+        # Get compliance data for the specified areas and year
+        for area in areas:
+            compliance_data = api.get_compliance_data(area=area, year=year, limit=100)  # Adjust limit as needed
+            all_data.extend(compliance_data.get('items', []))
 
         # Get measurements data for the specified areas and year
         for area in areas:
-            measurements_data = api.get_measurements(area=area, year=year, limit=50)  # Adjust limit as needed
+            measurements_data = api.get_measurements(area=area, year=year, limit=100)  # Adjust limit as needed
             all_data.extend(measurements_data.get('items', []))
 
         # Save all data to CSV
