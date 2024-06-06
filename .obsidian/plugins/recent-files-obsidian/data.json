@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Veolia prep",
+      "path": "Veolia prep.md"
+    },
+    {
       "basename": "Clean before ER diagram",
       "path": "Clean before ER diagram.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "Overview",
       "path": "Overview.md"
-    },
-    {
-      "basename": "Veolia prep",
-      "path": "Veolia prep.md"
     },
     {
       "basename": "Data Capture",
