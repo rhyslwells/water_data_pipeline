@@ -134,43 +134,11 @@ if __name__ == "__main__":
 
     try:
         # Get list of sampling points
-        response = api.list_sampling_points()
-
-        # Assuming 'response' contains the JSON response received from the API call
-        first_sampling_point = response['items'][0]
-
-        # Extract properties of the first sampling point
-        sampling_point_id = first_sampling_point['@id']
-        area_label = first_sampling_point['area']['label']
-        comment = first_sampling_point['comment']
-        easting = first_sampling_point['easting']
-        label = first_sampling_point['label']
-        latitude = first_sampling_point['lat']
-        longitude = first_sampling_point['long']
-        northing = first_sampling_point['northing']
-        notation = first_sampling_point['notation']
-        sampling_point_status = first_sampling_point['samplingPointStatus']['label']
-        sampling_point_type = first_sampling_point['samplingPointType']['label']
-        sub_area_label = first_sampling_point['subArea']['label']
-
-        # Print the data of the first sampling point
-        print("First Sampling Point:")
-        print(f"Sampling Point ID: {sampling_point_id}")
-        print(f"Area: {area_label}")
-        print(f"Comment: {comment}")
-        print(f"Easting: {easting}")
-        print(f"Label: {label}")
-        print(f"Latitude: {latitude}")
-        print(f"Longitude: {longitude}")
-        print(f"Northing: {northing}")
-        print(f"Notation: {notation}")
-        print(f"Sampling Point Status: {sampling_point_status}")
-        print(f"Sampling Point Type: {sampling_point_type}")
-        print(f"Sub Area: {sub_area_label}")
+        sampling_points_data = api.list_sampling_points()
+        print("List of Sampling Points: First: ", sampling_points_data[0])
 
     except requests.exceptions.RequestException as e:
         print(f"An error occurred: {e}")
-
 
 
 """
