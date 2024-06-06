@@ -12,7 +12,8 @@
     "lua",
     "php",
     "ipynb",
-    "csv"
+    "csv",
+    "sql"
   ],
   "folding": true,
   "lineNumbers": true,

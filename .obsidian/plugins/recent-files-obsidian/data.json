@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "GMMC_schema",
+      "path": "data_storage/GMMC/GMMC_schema.sql"
+    },
+    {
       "basename": "Recruiter Naomi",
       "path": "Recruiter Naomi.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "wedding",
       "path": "0_Archive/wedding.md"
-    },
-    {
-      "basename": "Prompts",
-      "path": "0_Archive/prompts/Prompts.md"
     }
   ],
   "omittedPaths": [],
