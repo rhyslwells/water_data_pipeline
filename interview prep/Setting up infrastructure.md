@@ -21,6 +21,7 @@ Starting from a scenario where the data infrastructure is minimal and primarily 
 
 - **Scheduled Jobs**: Set up scheduled jobs to automate data extraction, transformation, and loading processes. Tools like **Apache ==Airflow==** or **cron jobs** can manage these tasks.
 - **APIs**: If there are other applications or data sources to integrate, consider setting up RESTful APIs.
+- **Logging:** Use ProntoForm to collect data using their API.
 
 ### 5. Data Management and Governance
 

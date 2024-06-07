@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Veolia prep",
-      "path": "interview prep/Veolia prep.md"
-    },
-    {
-      "basename": "Microsoft access",
-      "path": "Microsoft access.md"
-    },
-    {
-      "basename": "Water solutions",
-      "path": "Water solutions.md"
+      "basename": "Case study questions",
+      "path": "interview prep/Case study questions.md"
     },
     {
       "basename": "Setting up infrastructure",
       "path": "interview prep/Setting up infrastructure.md"
+    },
+    {
+      "basename": "Interview questions from me",
+      "path": "Interview questions from me.md"
+    },
+    {
+      "basename": "Interview overview",
+      "path": "interview prep/Interview overview.md"
+    },
+    {
+      "basename": "Microsoft access",
+      "path": "Microsoft access.md"
     },
     {
       "basename": "GMMC",
@@ -191,14 +195,6 @@
     {
       "basename": "chatgpt customize",
       "path": "0_Archive/prompts/chatgpt customize.md"
-    },
-    {
-      "basename": "Difference between snowflake to hadoop",
-      "path": "3_DS Notes/Difference between snowflake to hadoop.md"
-    },
-    {
-      "basename": "Automated Feature Creation",
-      "path": "3_DS Notes/Automated Feature Creation.md"
     }
   ],
   "omittedPaths": [],
