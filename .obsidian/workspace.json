@@ -32,22 +32,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3c9b18dad898ac98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "API REST.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +109,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "API REST.md",
+                "file": "Veolia prep.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -184,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "API REST.md"
+                "file": "Veolia prep.md"
               }
             }
           },
@@ -194,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "API REST.md",
+                "file": "Veolia prep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "API REST.md",
+                "file": "Veolia prep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,15 +227,21 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "3c9b18dad898ac98",
+  "active": "d939a3932da16e91",
   "lastOpenFiles": [
+    "README.md",
+    "README.md",
+    "water_data_pipeline/README.md",
+    "docs/Clean before ER diagram.md",
+    "docs/ER diagram maker.md",
+    "docs/ETL Pipeline example.md",
+    "docs/GMMC_er_diagram.png",
     "Veolia prep.md",
-    "Clean before ER diagram.md",
+    "docs/API.md",
     "src/__pycache__/etl.cpython-310.pyc",
     "src/__pycache__",
     "src/__init__.py",
     "src/GMMC_transform_setup.ipynb",
-    "API REST.md",
     "data_storage/GMMC/GMMC.md",
     "data_storage/GMMC/raw_data/GMMC-2020-M.csv",
     "src/GMMC_api.py",
@@ -261,7 +254,6 @@
     "1_Inbox/Home.md",
     "Recruiter Naomi.md",
     "Data Capture.md",
-    "Overview.md",
     "Data storage.md",
     "Home.md",
     "Veolia prep/Veolia prep.md",
@@ -275,10 +267,6 @@
     "4_Engineering/ETL.md",
     "Databases/Data warehouse.md",
     "3_DS Notes/Snowflake.md",
-    "4_Engineering/Storage solutions.md",
-    "Databases/Relating tables.md",
-    "Databases/Optimisation.md",
-    "SQL/ACID of Transactions.md",
     "2_Projects/Learning_repo/Learning repo canvas.canvas",
     "0_Archive/imgs/Pasted image 20240411093348.png",
     "0_Archive/imgs/Pasted image 20240524193844.png",
@@ -289,7 +277,6 @@
     "0_Archive/imgs/Pasted image 20240524130607.png",
     "0_Archive/imgs/Pasted image 20240415105641.png",
     "2_Projects/Github_io/Github.io canvas.canvas",
-    "0_Archive/imgs/Pasted image 20240411095614.png",
     "2_Projects/AIS/AIS ideas.canvas",
     "2_Projects/Image_matching/Image matching canvas.canvas",
     "9_Focus/Exploration.canvas",

@@ -1,4 +1,4 @@
-Yes, cleaning a dataset before creating an Entity-Relationship (ER) diagram is crucial for ensuring accuracy and reliability in your database design. Here's why:
+Yes, cleaning a dataset before creating an [[ER Diagrams]] is crucial for ensuring accuracy and reliability in your database design. Here's why:
 
 1. **Data Quality**: Cleaning the dataset helps identify and rectify errors, inconsistencies, and missing values. This ensures that the data accurately represents the real-world entities and relationships you intend to model.
 

@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "API REST",
-      "path": "API REST.md"
-    },
-    {
       "basename": "Veolia prep",
       "path": "Veolia prep.md"
     },
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "Clean before ER diagram",
-      "path": "Clean before ER diagram.md"
+      "path": "docs/Clean before ER diagram.md"
+    },
+    {
+      "basename": "ER diagram maker",
+      "path": "docs/ER diagram maker.md"
+    },
+    {
+      "basename": "ETL Pipeline example",
+      "path": "docs/ETL Pipeline example.md"
+    },
+    {
+      "basename": "GMMC_er_diagram",
+      "path": "docs/GMMC_er_diagram.png"
+    },
+    {
+      "basename": "API",
+      "path": "docs/API.md"
     },
     {
       "basename": "GMMC",
@@ -27,10 +43,6 @@
     {
       "basename": "Home",
       "path": "1_Inbox/Home.md"
-    },
-    {
-      "basename": "Overview",
-      "path": "Overview.md"
     },
     {
       "basename": "Data Capture",
@@ -179,26 +191,6 @@
     {
       "basename": "Ada boosting",
       "path": "3_DS Notes/Ada boosting.md"
-    },
-    {
-      "basename": "interview questions",
-      "path": "1_Inbox/2_flashcards/interview questions.md"
-    },
-    {
-      "basename": "interview notepad",
-      "path": "1_Inbox/2_flashcards/interview notepad.md"
-    },
-    {
-      "basename": "Learning repo canvas",
-      "path": "2_Projects/Learning_repo/Learning repo canvas.canvas"
-    },
-    {
-      "basename": "Neural networks",
-      "path": "3_DS Notes/Neural networks.md"
-    },
-    {
-      "basename": "Get data",
-      "path": "3_DS Notes/Get data.md"
     }
   ],
   "omittedPaths": [],

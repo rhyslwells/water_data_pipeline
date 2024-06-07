@@ -1,8 +1,10 @@
+[[ER Diagrams]]
+
 Step 1. Ask Chatgpt to make er diagram with mermaidcode.
 
 Step 2. Use  https://mermaid.js.org/
 
-![[Pasted image 20240605161838.png|500]]
+![[GMMC_er_diagram.png|500]]
 
 Or use obsidians built in feature:
 
