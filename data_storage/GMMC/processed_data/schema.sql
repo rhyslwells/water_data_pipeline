@@ -1,15 +1,10 @@
 -- Step 1: Verify the current table structure by selecting the first 5 rows
-SELECT * FROM "GMMC-2020-M" LIMIT 5;
-
--- Drop the "Is Compliance Sample" column (if required)
--- ALTER TABLE "GMMC-2020-M" DROP COLUMN "Is Compliance Sample";
+SELECT * FROM "<table_name>" LIMIT 5;
 
 -- Step 2: Create the new tables
 
--- Drop the location table if it already exists
+-- Drop the tables if they already exist
 DROP TABLE IF EXISTS location;
-
--- Create the location table
 CREATE TABLE location (
     Location_ID INTEGER PRIMARY KEY AUTOINCREMENT,
     Sampling_Point_Notation TEXT NOT NULL UNIQUE,
@@ -18,10 +13,7 @@ CREATE TABLE location (
     Northing INTEGER
 );
 
--- Drop the determinand table if it already exists
 DROP TABLE IF EXISTS determinand;
-
--- Create the determinand table
 CREATE TABLE determinand (
     Determinand_ID INTEGER PRIMARY KEY AUTOINCREMENT,
     Determinand_Label TEXT NOT NULL,
@@ -29,10 +21,7 @@ CREATE TABLE determinand (
     Determinand_Notation TEXT
 );
 
--- Drop the sampling_data table if it already exists
 DROP TABLE IF EXISTS sampling_data;
-
--- Create the sampling_data table
 CREATE TABLE sampling_data (
     Sample_ID INTEGER PRIMARY KEY AUTOINCREMENT,
     ID TEXT NOT NULL,
@@ -54,7 +43,7 @@ SELECT DISTINCT
     "Sampling Point Label", 
     Easting, 
     Northing
-FROM "GMMC-2020-M";
+FROM "<table_name>";
 
 -- Verify insertion into location table
 SELECT * FROM location LIMIT 5;
@@ -65,7 +54,7 @@ SELECT DISTINCT
     "Determinand Label", 
     "Determinand Definition", 
     "Determinand Notation"
-FROM "GMMC-2020-M";
+FROM "<table_name>";
 
 -- Verify insertion into determinand table
 SELECT * FROM determinand LIMIT 5;
@@ -90,7 +79,7 @@ SELECT
     gm.Unit,
     gm."Sample Material Type",
     gm."Sample Purpose"
-FROM "GMMC-2020-M" gm
+FROM "<table_name>" gm
 JOIN location loc ON gm."Sampling Point Notation" = loc.Sampling_Point_Notation
 JOIN determinand det ON gm."Determinand Label" = det.Determinand_Label;
 
@@ -98,7 +87,7 @@ JOIN determinand det ON gm."Determinand Label" = det.Determinand_Label;
 SELECT * FROM sampling_data LIMIT 5;
 
 -- List all tables in the database
--- .tables;
+.tables;
 
 -- Verify the new tables
 SELECT * FROM location LIMIT 5;

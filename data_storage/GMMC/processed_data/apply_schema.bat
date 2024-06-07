@@ -2,7 +2,8 @@
 setlocal enabledelayedexpansion
 
 rem List of database files
-set databases=GMMC-2021-M.db GMMC-2022-M.db GMMC-2023-M.db GMMC-2024-M.db
+set databases=GMMC-2020-M.db
+rem GMMC-2021-M.db GMMC-2022-M.db GMMC-2023-M.db GMMC-2024-M.db
 
 rem SQL script file
 set sql_script=schema.sql
