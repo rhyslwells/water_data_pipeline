@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prontoforms.md",
+                "file": "data_storage/GMMC/GMMC.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 267.5,
+    "collapsed": true
   },
   "right": {
     "id": "5b13eed461f71e5a",
@@ -95,7 +96,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "prontoforms.md",
+                "file": "data_storage/GMMC/GMMC.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -157,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "prontoforms.md"
+                "file": "data_storage/GMMC/GMMC.md"
               }
             }
           },
@@ -167,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "prontoforms.md",
+                "file": "data_storage/GMMC/GMMC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "prontoforms.md",
+                "file": "data_storage/GMMC/GMMC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,6 +216,7 @@
   },
   "active": "ea1ab76d7e06a45d",
   "lastOpenFiles": [
+    "data_storage/GMMC/processed_data/GMMC_2020_M.db-journal",
     "prontoforms.md",
     "interview prep/Setting up infrastructure.md",
     "interview prep/Case study questions.md",
@@ -252,7 +254,6 @@
     "data_storage/GMMC/processed_data/er_diagram.png",
     "data_storage/GMMC/GMMC_schema.md",
     "1_Inbox/Home.md",
-    "Recruiter Naomi.md",
     "2_Projects/Learning_repo/Learning repo canvas.canvas",
     "0_Archive/imgs/Pasted image 20240411093348.png",
     "0_Archive/imgs/Pasted image 20240524193844.png",

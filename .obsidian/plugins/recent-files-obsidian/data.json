@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "GMMC",
+      "path": "data_storage/GMMC/GMMC.md"
+    },
+    {
       "basename": "prontoforms",
       "path": "prontoforms.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "Interview overview",
       "path": "interview prep/Interview overview.md"
-    },
-    {
-      "basename": "GMMC",
-      "path": "data_storage/GMMC/GMMC.md"
     },
     {
       "basename": "API",
