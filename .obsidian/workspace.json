@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "07366f85dbecf014",
+            "id": "d939a3932da16e91",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data_storage/GMMC/GMMC.md",
+                "file": "interview prep/Veolia prep.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "d939a3932da16e91",
+            "id": "4c7e4ba189c5ee5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Veolia prep.md",
+                "file": "Water solutions.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 267.5,
+    "collapsed": true
   },
   "right": {
     "id": "5b13eed461f71e5a",
@@ -109,7 +110,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Veolia prep.md",
+                "file": "interview prep/Veolia prep.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -171,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Veolia prep.md"
+                "file": "interview prep/Veolia prep.md"
               }
             }
           },
@@ -181,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Veolia prep.md",
+                "file": "interview prep/Veolia prep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Veolia prep.md",
+                "file": "interview prep/Veolia prep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,27 +230,37 @@
   },
   "active": "d939a3932da16e91",
   "lastOpenFiles": [
-    "README.md",
-    "README.md",
-    "water_data_pipeline/README.md",
+    "Microsoft access.md",
+    "interview prep/Veolia prep.md",
+    "Water solutions.md",
+    "interview prep/Setting up infrastructure.md",
+    "data_storage/GMMC/GMMC.md",
+    "docs/API.md",
     "docs/Clean before ER diagram.md",
     "docs/ER diagram maker.md",
     "docs/ETL Pipeline example.md",
+    "docs/ETL.md",
+    "docs/GIS.md",
     "docs/GMMC_er_diagram.png",
-    "Veolia prep.md",
-    "docs/API.md",
+    "docs/Key Differences of Web Feature Server (WFS) and Web Feature Server (WFS).md",
+    "docs/shapefile.md",
+    "docs/Web Feature Server (WFS).md",
+    "docs/Web Map Tile Service (WMTS).md",
+    "interview prep",
+    "docs/PostgreSQL set up.md",
+    "README.md",
+    "README.md",
+    "water_data_pipeline/README.md",
     "src/__pycache__/etl.cpython-310.pyc",
     "src/__pycache__",
     "src/__init__.py",
     "src/GMMC_transform_setup.ipynb",
-    "data_storage/GMMC/GMMC.md",
     "data_storage/GMMC/raw_data/GMMC-2020-M.csv",
     "src/GMMC_api.py",
     "data_storage/GMMC/processed_data/er_diagram.png",
     "data_storage/GMMC/processed_data/GMMC_schema.sql",
     "data_storage/septic_tanks_scotland/processed_data/septic_tanks_scotland.db-journal",
     "data_storage/septic_tanks_scotland/processed_data/septic_tanks_scotland.db",
-    "data_storage/GMMC/processed_data/GMMC-2020-M.db-journal",
     "data_storage/GMMC/GMMC_schema.md",
     "1_Inbox/Home.md",
     "Recruiter Naomi.md",
@@ -257,16 +268,6 @@
     "Data storage.md",
     "Home.md",
     "Veolia prep/Veolia prep.md",
-    "Veolia prep/ProntoForm.md",
-    "3_DS Notes/Hadoop.md",
-    "3_DS Notes/Gradient Descent.md",
-    "4_Engineering/Data engineer.md",
-    "Microsoft access.md",
-    "2_Projects/Todos obsidian.md",
-    "3_Tray/Kaggle Abalone regression.md",
-    "4_Engineering/ETL.md",
-    "Databases/Data warehouse.md",
-    "3_DS Notes/Snowflake.md",
     "2_Projects/Learning_repo/Learning repo canvas.canvas",
     "0_Archive/imgs/Pasted image 20240411093348.png",
     "0_Archive/imgs/Pasted image 20240524193844.png",

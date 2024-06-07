@@ -2,11 +2,27 @@
   "recentFiles": [
     {
       "basename": "Veolia prep",
-      "path": "Veolia prep.md"
+      "path": "interview prep/Veolia prep.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
+      "basename": "Microsoft access",
+      "path": "Microsoft access.md"
+    },
+    {
+      "basename": "Water solutions",
+      "path": "Water solutions.md"
+    },
+    {
+      "basename": "Setting up infrastructure",
+      "path": "interview prep/Setting up infrastructure.md"
+    },
+    {
+      "basename": "GMMC",
+      "path": "data_storage/GMMC/GMMC.md"
+    },
+    {
+      "basename": "API",
+      "path": "docs/API.md"
     },
     {
       "basename": "Clean before ER diagram",
@@ -21,16 +37,36 @@
       "path": "docs/ETL Pipeline example.md"
     },
     {
+      "basename": "GIS",
+      "path": "docs/GIS.md"
+    },
+    {
       "basename": "GMMC_er_diagram",
       "path": "docs/GMMC_er_diagram.png"
     },
     {
-      "basename": "API",
-      "path": "docs/API.md"
+      "basename": "Key Differences of Web Feature Server (WFS) and Web Feature Server (WFS)",
+      "path": "docs/Key Differences of Web Feature Server (WFS) and Web Feature Server (WFS).md"
     },
     {
-      "basename": "GMMC",
-      "path": "data_storage/GMMC/GMMC.md"
+      "basename": "shapefile",
+      "path": "docs/shapefile.md"
+    },
+    {
+      "basename": "Web Feature Server (WFS)",
+      "path": "docs/Web Feature Server (WFS).md"
+    },
+    {
+      "basename": "Web Map Tile Service (WMTS)",
+      "path": "docs/Web Map Tile Service (WMTS).md"
+    },
+    {
+      "basename": "PostgreSQL set up",
+      "path": "docs/PostgreSQL set up.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "GMMC-2020-M",
@@ -67,10 +103,6 @@
     {
       "basename": "Data engineer",
       "path": "4_Engineering/Data engineer.md"
-    },
-    {
-      "basename": "Microsoft access",
-      "path": "Microsoft access.md"
     },
     {
       "basename": "Todos obsidian",
@@ -167,30 +199,6 @@
     {
       "basename": "Automated Feature Creation",
       "path": "3_DS Notes/Automated Feature Creation.md"
-    },
-    {
-      "basename": "Free course england",
-      "path": "1_Inbox/8_Job_hunt/Free course england.md"
-    },
-    {
-      "basename": "Boosting",
-      "path": "3_DS Notes/Boosting.md"
-    },
-    {
-      "basename": "outliers",
-      "path": "3_DS Notes/outliers.md"
-    },
-    {
-      "basename": "Interview questions",
-      "path": "3_DS Notes/Interview questions.md"
-    },
-    {
-      "basename": "Gradient boosting",
-      "path": "3_DS Notes/Gradient boosting.md"
-    },
-    {
-      "basename": "Ada boosting",
-      "path": "3_DS Notes/Ada boosting.md"
     }
   ],
   "omittedPaths": [],

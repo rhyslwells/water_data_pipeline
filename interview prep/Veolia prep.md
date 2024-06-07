@@ -1,25 +1,31 @@
-Water solutions: Purifying, vaporising , treatment, extracting... 
-
-[[Microsoft access]]
 
 
-### What i want to gain 
+### What I want to gain 
 
 want to be in a position where i can learn.
 learn best practices.
 Seize the oppertunities that arise
-### datawarehouse design:
+### Data management
 
+Task: ●      Lead the improvement of data handling, dashboarding  and digitalisation for the entire team.
+
+SEtting up a server:
+
+How to access it via a API : 
+
+Set up automatic schedualing of data processes. Write scripts to do this for data sources.
+
+●      Identifying and setting up processes and software to make data and reporting more efficient.
+
+SEt up.
 Datawarehouse design: Example class management system
-ER - diagram
-[[ER Diagrams]]
 
-1. Entites
-2. Diagram them
+Handle dat sollection
+[[ER Diagrams]]
 
 ### ETL design
 
-- logging [[ProntoForm]]
+- logging [[ProntoForm]] : collect data using their api. 
 - dependency management
 - layers of data: raw, staging, prod,analytics
 
@@ -30,17 +36,22 @@ ER - diagram
 ### SQL and coding:
 
 Then SQL queries on it: 
+### Excel/ python pandas
 
-Check glassdoor.
-
-### Excel
-
-### Behavourial
+### My Behavourial
 
 - ownership: take lead
 - curiousity
 - Focus on the results not the tech: what results where you driving.
 - read the company missions.
+
+Veolia values:
+
+- customer focus
+- respect,
+- innovation
+- responsibility
+- community.
 
 ### Water industry
 
@@ -50,35 +61,16 @@ check anomalies between data sets and identify any volume and financial impacts.
 
 ### Microsoft Access
 
-### Veolia values:
-
-- customer focus
-- respect,
-- innovation
-- responsibility
-- community.
 
 ## Preparation 
 
+Write me some questions to ask during the interview.
 
-1. Research the organisation.
-This will help you answer questions — and stand out from less-prepared candidates.
-● Seek background information.
-	○ Visit the organisation’s website, and social media accounts so you understand the
-	scope and breadth of what they do.
-	○ Review the organisation's background and purpose and values.
-	○ Take a look at their services, products and client/customer base.
-	○ Read recent press releases for insight on projected growth and stability.
-● Get perspective. Review trade or business publications. Seek perspective and a glimpse into
-their industry standing.
-● Develop a question list. Prepare to ask about the organisation or position based on your
-research.
+- Where in the organisation do i fit. what is the structure.
 
-2. Compare your skills and qualifications to the job requirements.
-● Analyse the job description. Outline the knowledge, skills and abilities required.
-● Examine the hierarchy. Understand where the position fits within the organisation.
 
-3. Prepare responses.
+What kind of case study questions am I likely to be a
+
 Most interviews involve a combination of CV-based, behavioural and case questions. Think of
 examples in your work/personal life that will show your skills and experiences at their best and will
 demonstrate the values of the business.
