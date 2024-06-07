@@ -1,5 +1,5 @@
 -- Step 1: Verify the current table structure by selecting the first 5 rows
-SELECT * FROM "<table_name>" LIMIT 5;
+-- SELECT * FROM "<table_name>" LIMIT 5;
 
 -- Step 2: Create the new tables
 
@@ -46,7 +46,7 @@ SELECT DISTINCT
 FROM "<table_name>";
 
 -- Verify insertion into location table
-SELECT * FROM location LIMIT 5;
+-- SELECT * FROM location LIMIT 5;
 
 -- Step 4: Insert unique determinands into the determinand table
 INSERT INTO determinand (Determinand_Label, Determinand_Definition, Determinand_Notation)
@@ -57,7 +57,7 @@ SELECT DISTINCT
 FROM "<table_name>";
 
 -- Verify insertion into determinand table
-SELECT * FROM determinand LIMIT 5;
+-- SELECT * FROM determinand LIMIT 5;
 
 -- Step 5: Insert data into the sampling_data table
 INSERT INTO sampling_data (
@@ -84,12 +84,12 @@ JOIN location loc ON gm."Sampling Point Notation" = loc.Sampling_Point_Notation
 JOIN determinand det ON gm."Determinand Label" = det.Determinand_Label;
 
 -- Verify insertion into sampling_data table
-SELECT * FROM sampling_data LIMIT 5;
+-- SELECT * FROM sampling_data LIMIT 5;
 
 -- List all tables in the database
 .tables;
 
 -- Verify the new tables
-SELECT * FROM location LIMIT 5;
-SELECT * FROM determinand LIMIT 5;
-SELECT * FROM sampling_data LIMIT 5;
+-- SELECT * FROM location LIMIT 5;
+-- SELECT * FROM determinand LIMIT 5;
+-- SELECT * FROM sampling_data LIMIT 5;

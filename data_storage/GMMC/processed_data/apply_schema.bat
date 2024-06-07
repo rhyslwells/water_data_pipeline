@@ -3,7 +3,7 @@ setlocal enabledelayedexpansion
 
 rem List of database files
 set databases=GMMC-2020-M.db
-rem GMMC-2021-M.db GMMC-2022-M.db GMMC-2023-M.db GMMC-2024-M.db
+@REM  GMMC-2021-M.db GMMC-2022-M.db GMMC-2023-M.db GMMC-2024-M.db
 
 rem SQL script file
 set sql_script=schema.sql
@@ -12,10 +12,9 @@ rem Loop through each database and apply the SQL script
 for %%d in (%databases%) do (
     echo Applying schema to %%d
 
-    rem Get the table name by extracting the year from the database filename
+    rem Get the table name (GMMC-2020-M) from the database filename
     set db=%%d
-    set table_name=!db:GMMC-=!
-    set table_name=!table_name:.db=!
+    set table_name=!db:~0,-3!
 
     rem Replace the placeholder with the actual table name and execute the script
     call :apply_schema "!table_name!" %%d

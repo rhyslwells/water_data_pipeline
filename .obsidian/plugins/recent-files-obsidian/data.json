@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "er_diagram",
+      "path": "data_storage/GMMC/processed_data/er_diagram.md"
+    },
+    {
+      "basename": "ER diagram maker",
+      "path": "docs/ER diagram maker.md"
+    },
+    {
+      "basename": "ER Diagrams",
+      "path": "ER Diagrams.md"
+    },
+    {
       "basename": "GMMC",
       "path": "data_storage/GMMC/GMMC.md"
     },
@@ -39,10 +51,6 @@
     {
       "basename": "Clean before ER diagram",
       "path": "docs/Clean before ER diagram.md"
-    },
-    {
-      "basename": "ER diagram maker",
-      "path": "docs/ER diagram maker.md"
     },
     {
       "basename": "ETL Pipeline example",
@@ -187,18 +195,6 @@
     {
       "basename": "Data modelling",
       "path": "Databases/Data modelling.md"
-    },
-    {
-      "basename": "Views",
-      "path": "SQL/Views.md"
-    },
-    {
-      "basename": "Subquerying",
-      "path": "SQL/Subquerying.md"
-    },
-    {
-      "basename": "sdlc Software dev life cycle",
-      "path": "1_Inbox/Business/sdlc Software dev life cycle.md"
     }
   ],
   "omittedPaths": [],
