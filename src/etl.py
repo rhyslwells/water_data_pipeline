@@ -34,13 +34,50 @@ def load(df: pd.DataFrame, name: str,folder_name:str) -> None:
 # The following functions will be different for each folder_name
 
 def transform_GMMC(data: pd.DataFrame) -> pd.DataFrame:
-    """Transform the dataset into the desired structure and filters."""
+    """
+    Transform the dataset into the desired structure and filters.
+    
+    Parameters:
+    data (pd.DataFrame): Input dataframe to be transformed.
+    
+    Returns:
+    pd.DataFrame: Transformed dataframe.
+    """
     logging.info(f"Transforming data, initial size: {data.shape}")
-    # Example transformation: adding more realistic transformations
-    # This is a placeholder. Actual transformations depend on the specific needs.
-    df = data
-    logging.info(f"Transformed data size: {df.shape}")
-    return df
+    
+    # Rename columns for clarity
+    data.rename(columns={
+        '@id': 'ID',
+        'sample.samplingPoint': 'Sampling Point',
+        'sample.samplingPoint.notation': 'Sampling Point Notation',
+        'sample.samplingPoint.label': 'Sampling Point Label',
+        'sample.sampleDateTime': 'Sample Date and Time',
+        'determinand.label': 'Determinand Label',
+        'determinand.definition': 'Determinand Definition',
+        'determinand.notation': 'Determinand Notation',
+        'resultQualifier.notation': 'Result Qualifier Notation',
+        'result': 'Result',
+        'codedResultInterpretation.interpretation': 'Result Interpretation',
+        'determinand.unit.label': 'Unit',
+        'sample.sampledMaterialType.label': 'Sample Material Type',
+        'sample.isComplianceSample': 'Is Compliance Sample',
+        'sample.purpose.label': 'Sample Purpose',
+        'sample.samplingPoint.easting': 'Easting',
+        'sample.samplingPoint.northing': 'Northing'
+    }, inplace=True)
+    
+    # Drop unnecessary columns
+    data.drop(columns=['Result Interpretation', 'Result Qualifier Notation', 'Sampling Point'], inplace=True)
+    
+    # Extract the last part of the string from the ID column
+    data['ID'] = data['ID'].str.split('/').str[-1]
+    
+    # Convert the Sample Date and Time to datetime
+    data['Sample Date and Time'] = pd.to_datetime(data['Sample Date and Time'])
+    
+    logging.info(f"Transformed data size: {data.shape}")
+    return data
+
 
 def transform_septic_tanks_scotland(data: pd.DataFrame) -> pd.DataFrame:
     """Transform the dataset into the desired structure and filters."""
@@ -100,4 +137,10 @@ if __name__ == "__main__":
 
 # provide examples of how to run the script
 # python src/etl.py --path data_storage/GMMC/raw_data/GMMC-2020-M.csv --name GMMC-2020-M --folder_name GMMC
+# python src/etl.py --path data_storage/GMMC/raw_data/GMMC-2021-M.csv --name GMMC-2021-M --folder_name GMMC
+# python src/etl.py --path data_storage/GMMC/raw_data/GMMC-2022-M.csv --name GMMC-2022-M --folder_name GMMC
+# python src/etl.py --path data_storage/GMMC/raw_data/GMMC-2023-M.csv --name GMMC-2023-M --folder_name GMMC
+# python src/etl.py --path data_storage/GMMC/raw_data/GMMC-2024-M.csv --name GMMC-2024-M --folder_name GMMC
+
+
 # python src/etl.py --path data_storage\septic_tanks_scotland\raw_data\Septic_Tanks_-_Scotland.csv --name septic_tanks_scotland --folder_name septic_tanks_scotland
