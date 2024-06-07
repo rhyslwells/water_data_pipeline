@@ -11,13 +11,8 @@
             "id": "46939080016a4615",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "data_storage/GMMC/processed_data/er_diagram.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -95,7 +90,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "data_storage/GMMC/processed_data/er_diagram.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -156,9 +150,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "data_storage/GMMC/processed_data/er_diagram.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,7 +159,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data_storage/GMMC/processed_data/er_diagram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +175,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data_storage/GMMC/processed_data/er_diagram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,8 +205,14 @@
   },
   "active": "46939080016a4615",
   "lastOpenFiles": [
-    "data_storage/GMMC/processed_data/er_diagram.png",
     "data_storage/GMMC/processed_data/er_diagram.md",
+    "data_storage/GMMC/er_diagram.md",
+    "data_storage/GMMC/analysis.sql",
+    "data_storage/GMMC/processed_data/analysis.sql",
+    "data_storage/GMMC/processed_data/GMMC_2020_M.db",
+    "data_storage/GMMC/processed_data/querying.sql",
+    "data_storage/GMMC/processed_data/q.sql",
+    "data_storage/GMMC/processed_data/er_diagram.png",
     "docs/ER diagram maker.md",
     "ER Diagrams.md",
     "data_storage/GMMC/GMMC.md",
@@ -225,11 +221,6 @@
     "data_storage/GMMC/processed_data/GMMC-2024-M.db",
     "data_storage/GMMC/processed_data/GMMC-2023-M.db",
     "data_storage/GMMC/processed_data/GMMC-2022-M.db",
-    "data_storage/GMMC/processed_data/GMMC-2021-M.db",
-    "data_storage/GMMC/processed_data/GMMC-2020-M.db",
-    "data_storage/GMMC/processed_data/GMMC_2021_M.db",
-    "data_storage/GMMC/processed_data/GMMC-2024-M.db-journal",
-    "data_storage/GMMC/processed_data/GMMC_2021.db",
     "prontoforms.md",
     "interview prep/Setting up infrastructure.md",
     "interview prep/Case study questions.md",
