@@ -1,34 +1,102 @@
-CREATE TABLE SamplingPoint (
-    notation VARCHAR(255) PRIMARY KEY,
-    label VARCHAR(255),
-    easting INT,
-    northing INT
+-- Step 1: Verify the current table structure by selecting the first 5 rows
+SELECT * FROM "GMMC-2020-M" LIMIT 5;
+-- DROP "Is Compliance Sample" FROM "GMMC-2020-M";
+
+-- Step 2: Create the new tables
+
+-- Drop the tables if they already exist
+DROP TABLE IF EXISTS location;
+-- Create the location table
+CREATE TABLE location (
+    Location_ID INTEGER PRIMARY KEY AUTOINCREMENT,
+    Sampling_Point_Notation TEXT NOT NULL UNIQUE,
+    Sampling_Point_Label TEXT NOT NULL,
+    Easting INTEGER,
+    Northing INTEGER
 );
 
-CREATE TABLE Determinand (
-    notation VARCHAR(255) PRIMARY KEY,
-    label VARCHAR(255),
-    definition TEXT,
-    unitLabel VARCHAR(255)
+-- Drop the tables if they already exist
+DROP TABLE IF EXISTS determinand;
+-- Create the determinand table
+CREATE TABLE determinand (
+    Determinand_ID INTEGER PRIMARY KEY AUTOINCREMENT,
+    Determinand_Label TEXT NOT NULL,
+    Determinand_Definition TEXT,
+    Determinand_Notation TEXT
 );
 
-CREATE TABLE Sample (
-    id VARCHAR(255) PRIMARY KEY,
-    samplingPoint VARCHAR(255),
-    sampleDateTime DATETIME,
-    isComplianceSample BOOLEAN,
-    purposeLabel VARCHAR(255),
-    sampledMaterialTypeLabel VARCHAR(255),
-    FOREIGN KEY (samplingPoint) REFERENCES SamplingPoint(notation)
+-- Drop the tables if they already exist
+DROP TABLE IF EXISTS sampling_data;
+-- Create the sampling_data table
+CREATE TABLE sampling_data (
+    Sample_ID TEXT PRIMARY KEY,
+    ID TEXT NOT NULL,
+    Location_ID INTEGER NOT NULL,
+    Determinand_ID INTEGER NOT NULL,
+    Sample_Date_and_Time DATETIME NOT NULL,
+    Result REAL,
+    Unit TEXT,
+    Sample_Material_Type TEXT,
+    Sample_Purpose TEXT,
+    FOREIGN KEY (Location_ID) REFERENCES location(Location_ID),
+    FOREIGN KEY (Determinand_ID) REFERENCES determinand(Determinand_ID)
 );
 
-CREATE TABLE Result (
-    resultID INT PRIMARY KEY AUTO_INCREMENT,
-    sampleID VARCHAR(255),
-    determinandNotation VARCHAR(255),
-    resultQualifierNotation VARCHAR(255),
-    codedResultInterpretation VARCHAR(255),
-    result FLOAT,
-    FOREIGN KEY (sampleID) REFERENCES Sample(id),
-    FOREIGN KEY (determinandNotation) REFERENCES Determinand(notation)
-);
+-- Step 3: Insert unique locations into the location table
+INSERT INTO location (Sampling_Point_Notation, Sampling_Point_Label, Easting, Northing)
+SELECT DISTINCT 
+    "Sampling Point Notation", 
+    "Sampling Point Label", 
+    Easting, 
+    Northing
+FROM "GMMC-2020-M";
+
+-- Verify insertion into location table
+SELECT * FROM location LIMIT 5;
+
+-- Step 4: Insert unique determinands into the determinand table
+INSERT INTO determinand (Determinand_Label, Determinand_Definition, Determinand_Notation)
+SELECT DISTINCT 
+    "Determinand Label", 
+    "Determinand Definition", 
+    "Determinand Notation"
+FROM "GMMC-2020-M";
+
+-- Verify insertion into determinand table
+SELECT * FROM determinand LIMIT 5;
+
+-- Step 5: Insert data into the sampling_data table
+INSERT INTO sampling_data (
+    Sample_ID,
+    ID,
+    Location_ID,
+    Determinand_ID,
+    Sample_Date_and_Time,
+    Result,
+    Unit,
+    Sample_Material_Type,
+    Sample_Purpose
+)
+SELECT 
+    gm.ID,
+    loc.Location_ID,
+    det.Determinand_ID,
+    gm."Sample Date and Time",
+    gm.Result,
+    gm.Unit,
+    gm."Sample Material Type",
+    gm."Sample Purpose"
+FROM "GMMC-2020-M" gm
+JOIN location loc ON gm."Sampling Point Notation" = loc.Sampling_Point_Notation
+JOIN determinand det ON gm."Determinand Label" = det.Determinand_Label;
+
+-- Verify insertion into sampling_data table
+SELECT * FROM sampling_data LIMIT 5;
+
+-- List all tables in the database
+.tables;
+
+-- Verify the new tables
+SELECT * FROM location LIMIT 5;
+SELECT * FROM determinand LIMIT 5;
+SELECT * FROM sampling_data LIMIT 5;
