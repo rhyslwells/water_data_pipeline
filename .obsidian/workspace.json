@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9f399d5837c0933a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Veolia Nevis Info.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "interview prep/Case study questions.md",
+                "file": "Veolia Nevis Info.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -171,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "interview prep/Case study questions.md"
+                "file": "Veolia Nevis Info.md"
               }
             }
           },
@@ -181,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "interview prep/Case study questions.md",
+                "file": "Veolia Nevis Info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "interview prep/Case study questions.md",
+                "file": "Veolia Nevis Info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,10 +240,11 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "cb666cbe2ec80535",
+  "active": "9f399d5837c0933a",
   "lastOpenFiles": [
-    "interview prep/Setting up infrastructure.md",
+    "Veolia Nevis Info.md",
     "interview prep/Case study questions.md",
+    "interview prep/Setting up infrastructure.md",
     "Interview questions from me.md",
     "interview prep/Interview overview.md",
     "Water solutions.md",
@@ -266,7 +280,6 @@
     "1_Inbox/Home.md",
     "Recruiter Naomi.md",
     "Data Capture.md",
-    "Data storage.md",
     "2_Projects/Learning_repo/Learning repo canvas.canvas",
     "0_Archive/imgs/Pasted image 20240411093348.png",
     "0_Archive/imgs/Pasted image 20240524193844.png",
