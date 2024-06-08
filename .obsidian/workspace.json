@@ -11,8 +11,13 @@
             "id": "ed74f8140bd849ca",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "MS_Access_practice/Microsoft access.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -91,6 +96,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "MS_Access_practice/Microsoft access.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -151,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "MS_Access_practice/Microsoft access.md"
+              }
             }
           },
           {
@@ -160,6 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MS_Access_practice/Microsoft access.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,6 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "MS_Access_practice/Microsoft access.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
