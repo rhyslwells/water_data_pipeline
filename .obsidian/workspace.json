@@ -11,13 +11,8 @@
             "id": "ed74f8140bd849ca",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "excel.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -96,7 +91,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "excel.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -157,9 +151,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "excel.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,7 +160,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "excel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +176,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "excel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
