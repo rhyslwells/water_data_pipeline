@@ -4,25 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "ab8f597d46787527",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "46939080016a4615",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "32b7136e69b23fc3",
         "type": "tabs",
         "children": [
@@ -97,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 449.5
+    "width": 449.5,
+    "collapsed": true
   },
   "right": {
     "id": "5b13eed461f71e5a",
@@ -234,6 +216,7 @@
   },
   "active": "ed74f8140bd849ca",
   "lastOpenFiles": [
+    "coverletter del later.md",
     "Excel Formulas and Functions.xlsx",
     "Excel Formulas and Functions(Tax Rate).csv",
     "excel.md",
@@ -249,7 +232,6 @@
     "data_storage/GMMC/processed_data/er_diagram.md",
     "data_storage/GMMC/er_diagram.md",
     "data_storage/GMMC/analysis.sql",
-    "data_storage/GMMC/processed_data/analysis.sql",
     "data_storage/GMMC/processed_data/er_diagram.png",
     "docs/ER diagram maker.md",
     "ER Diagrams.md",
