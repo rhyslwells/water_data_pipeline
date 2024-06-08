@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "234fe1f942a92865",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "practice/PowerBI/PowerBI.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +109,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "practice/MS_Access/Microsoft access.md",
+                "file": "practice/PowerBI/PowerBI.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -157,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "practice/MS_Access/Microsoft access.md"
+                "file": "practice/PowerBI/PowerBI.md"
               }
             }
           },
@@ -167,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "practice/MS_Access/Microsoft access.md",
+                "file": "practice/PowerBI/PowerBI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "practice/MS_Access/Microsoft access.md",
+                "file": "practice/PowerBI/PowerBI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,6 +229,12 @@
   },
   "active": "c1b62b58193264ce",
   "lastOpenFiles": [
+    "practice/PowerBI/4973AC50",
+    "practice/PowerBI/~$Kevin Cookie Company Financials.xlsx",
+    "practice/MS_Access/Microsoft access.md",
+    "practice/PowerBI/PowerBI.md",
+    "practice/PowerBI/Kevin Cookie Company Financials.xlsx",
+    "practice/excel/Kevin Cookie Company Financials.xlsx",
     "practice",
     "practice/PowerBI",
     "coverletter del later.md",
@@ -226,10 +246,6 @@
     "Kevin Cookie Company Orders.accdb",
     "Excel Formulas and Functions Complete.xlsx",
     "data_storage/GMMC/processed_data/Kevin Cookie Company Orders.laccdb",
-    "data_storage/GMMC/processed_data/Kevin Cookie Company Orders.accdb",
-    "data_storage/GMMC/processed_data/GMMC_20201.laccdb",
-    "data_storage/GMMC/processed_data/GMMC_20201.accdb",
-    "data_storage/GMMC/processed_data/ODBC.accdb",
     "data_storage/GMMC/processed_data/er_diagram.md",
     "data_storage/GMMC/er_diagram.md",
     "data_storage/GMMC/processed_data/er_diagram.png",
@@ -251,8 +267,6 @@
     "docs/GIS.md",
     "docs/GMMC_er_diagram.png",
     "docs/Key Differences of Web Feature Server (WFS) and Web Feature Server (WFS).md",
-    "docs/shapefile.md",
-    "docs/Web Feature Server (WFS).md",
     "2_Projects/Learning_repo/Learning repo canvas.canvas",
     "0_Archive/imgs/Pasted image 20240411093348.png",
     "0_Archive/imgs/Pasted image 20240524193844.png",
