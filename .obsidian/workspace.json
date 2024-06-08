@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MS_Access_practice/Microsoft access.md",
+                "file": "practice/MS_Access/Microsoft access.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 449.5,
-    "collapsed": true
+    "width": 449.5
   },
   "right": {
     "id": "5b13eed461f71e5a",
@@ -96,7 +95,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "MS_Access_practice/Microsoft access.md",
+                "file": "practice/MS_Access/Microsoft access.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -158,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MS_Access_practice/Microsoft access.md"
+                "file": "practice/MS_Access/Microsoft access.md"
               }
             }
           },
@@ -168,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MS_Access_practice/Microsoft access.md",
+                "file": "practice/MS_Access/Microsoft access.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MS_Access_practice/Microsoft access.md",
+                "file": "practice/MS_Access/Microsoft access.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,8 +213,10 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "ed74f8140bd849ca",
+  "active": "c1b62b58193264ce",
   "lastOpenFiles": [
+    "practice",
+    "practice/PowerBI",
     "coverletter del later.md",
     "Excel Formulas and Functions.xlsx",
     "Excel Formulas and Functions(Tax Rate).csv",
@@ -231,7 +232,6 @@
     "data_storage/GMMC/processed_data/ODBC.accdb",
     "data_storage/GMMC/processed_data/er_diagram.md",
     "data_storage/GMMC/er_diagram.md",
-    "data_storage/GMMC/analysis.sql",
     "data_storage/GMMC/processed_data/er_diagram.png",
     "docs/ER diagram maker.md",
     "ER Diagrams.md",
@@ -253,7 +253,6 @@
     "docs/Key Differences of Web Feature Server (WFS) and Web Feature Server (WFS).md",
     "docs/shapefile.md",
     "docs/Web Feature Server (WFS).md",
-    "docs/Web Map Tile Service (WMTS).md",
     "2_Projects/Learning_repo/Learning repo canvas.canvas",
     "0_Archive/imgs/Pasted image 20240411093348.png",
     "0_Archive/imgs/Pasted image 20240524193844.png",
