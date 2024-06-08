@@ -1,20 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "excel",
+      "path": "excel.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "ER diagram maker",
       "path": "docs/ER diagram maker.md"
     },
     {
-      "basename": "ER Diagrams",
-      "path": "ER Diagrams.md"
-    },
-    {
       "basename": "GMMC",
       "path": "data_storage/GMMC/GMMC.md"
-    },
-    {
-      "basename": "prontoforms",
-      "path": "prontoforms.md"
     },
     {
       "basename": "Setting up infrastructure",
@@ -79,10 +79,6 @@
     {
       "basename": "PostgreSQL set up",
       "path": "docs/PostgreSQL set up.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "GMMC-2020-M",

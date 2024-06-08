@@ -11,8 +11,32 @@
             "id": "46939080016a4615",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "32b7136e69b23fc3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed74f8140bd849ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "excel.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -73,7 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 449.5
   },
   "right": {
     "id": "5b13eed461f71e5a",
@@ -90,6 +114,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "excel.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -150,7 +175,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "excel.md"
+              }
             }
           },
           {
@@ -159,6 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "excel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,6 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "excel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,8 +232,17 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "46939080016a4615",
+  "active": "ed74f8140bd849ca",
   "lastOpenFiles": [
+    "Excel Formulas and Functions.xlsx",
+    "Excel Formulas and Functions(Tax Rate).csv",
+    "excel.md",
+    "README.md",
+    "docs/prontoforms.md",
+    "Kevin Cookie Company Orders.accdb",
+    "Excel Formulas and Functions Complete.xlsx",
+    "data_storage/GMMC/processed_data/Kevin Cookie Company Orders.laccdb",
+    "data_storage/GMMC/processed_data/Kevin Cookie Company Orders.accdb",
     "data_storage/GMMC/processed_data/GMMC_20201.laccdb",
     "data_storage/GMMC/processed_data/GMMC_20201.accdb",
     "data_storage/GMMC/processed_data/ODBC.accdb",
@@ -212,16 +250,10 @@
     "data_storage/GMMC/er_diagram.md",
     "data_storage/GMMC/analysis.sql",
     "data_storage/GMMC/processed_data/analysis.sql",
-    "data_storage/GMMC/processed_data/GMMC_2020_M.db",
-    "data_storage/GMMC/processed_data/querying.sql",
-    "data_storage/GMMC/processed_data/q.sql",
     "data_storage/GMMC/processed_data/er_diagram.png",
     "docs/ER diagram maker.md",
     "ER Diagrams.md",
     "data_storage/GMMC/GMMC.md",
-    "data_storage/GMMC/processed_data/GMMC-2020-M.db-journal",
-    "data_storage/GMMC/processed_data/temp_schema.sql",
-    "data_storage/GMMC/processed_data/GMMC-2024-M.db",
     "prontoforms.md",
     "interview prep/Setting up infrastructure.md",
     "interview prep/Case study questions.md",
@@ -240,9 +272,6 @@
     "docs/shapefile.md",
     "docs/Web Feature Server (WFS).md",
     "docs/Web Map Tile Service (WMTS).md",
-    "docs/PostgreSQL set up.md",
-    "README.md",
-    "README.md",
     "2_Projects/Learning_repo/Learning repo canvas.canvas",
     "0_Archive/imgs/Pasted image 20240411093348.png",
     "0_Archive/imgs/Pasted image 20240524193844.png",
