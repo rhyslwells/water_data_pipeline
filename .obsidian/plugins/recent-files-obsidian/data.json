@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "PowerBI",
-      "path": "practice/PowerBI/PowerBI.md"
+      "basename": "excel",
+      "path": "practice/excel/excel.md"
     },
     {
-      "basename": "Microsoft access",
-      "path": "practice/MS_Access/Microsoft access.md"
+      "basename": "Data storage outline",
+      "path": "data_storage/Data storage outline.md"
+    },
+    {
+      "basename": "Data cleaning",
+      "path": "cleaning/Data cleaning.md"
+    },
+    {
+      "basename": "Data capture",
+      "path": "capture/Data capture.md"
+    },
+    {
+      "basename": "cleaning_script",
+      "path": "cleaning/cleaning_script.py"
     },
     {
       "basename": "excel",
@@ -187,14 +199,6 @@
     {
       "basename": "Database schema",
       "path": "Databases/Database schema.md"
-    },
-    {
-      "basename": "data preparation",
-      "path": "3_DS Notes/data preparation.md"
-    },
-    {
-      "basename": "Data modelling",
-      "path": "Databases/Data modelling.md"
     }
   ],
   "omittedPaths": [],

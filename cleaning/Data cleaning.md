@@ -2,8 +2,6 @@
    - Write Python scripts to extract data from the database.
    - Cleanse the data by handling missing values, outliers, and inconsistent formats.
    - Process the data to aggregate consumption by different time intervals (daily, weekly, monthly).
-
-
 ### Steps:
 
 Data cleaning is a critical step before analyzing any dataset. Below are common steps for data cleaning, which I will demonstrate on the provided dataset:
