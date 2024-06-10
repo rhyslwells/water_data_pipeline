@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Microsoft access",
+      "path": "practice/MS_Access/Microsoft access.md"
+    },
+    {
       "basename": "excel",
       "path": "practice/excel/excel.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "ER Diagrams",
       "path": "SQL/ER Diagrams.md"
-    },
-    {
-      "basename": "Database schema",
-      "path": "Databases/Database schema.md"
     }
   ],
   "omittedPaths": [],
