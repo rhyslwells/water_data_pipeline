@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "practice/MS_Access/Microsoft access.md",
+                "file": "interview prep/Setting up infrastructure.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "practice/MS_Access/Microsoft access.md",
+                "file": "interview prep/Setting up infrastructure.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "practice/MS_Access/Microsoft access.md"
+                "file": "interview prep/Setting up infrastructure.md"
               }
             }
           },
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "practice/MS_Access/Microsoft access.md",
+                "file": "interview prep/Setting up infrastructure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "practice/MS_Access/Microsoft access.md",
+                "file": "interview prep/Setting up infrastructure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,8 +229,8 @@
   },
   "active": "0e0edae863fe62bf",
   "lastOpenFiles": [
-    "interview prep/Case study questions.md",
     "practice/MS_Access/Microsoft access.md",
+    "interview prep/Case study questions.md",
     "Pasted image 20240610204710.png",
     "Pasted image 20240610204339.png",
     "Pasted image 20240610203906.png",
