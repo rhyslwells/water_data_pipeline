@@ -5,6 +5,10 @@
       "path": "practice/MS_Access/Microsoft access.md"
     },
     {
+      "basename": "Case study questions",
+      "path": "interview prep/Case study questions.md"
+    },
+    {
       "basename": "excel",
       "path": "practice/excel/excel.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "Setting up infrastructure",
       "path": "interview prep/Setting up infrastructure.md"
-    },
-    {
-      "basename": "Case study questions",
-      "path": "interview prep/Case study questions.md"
     },
     {
       "basename": "Interview questions from me",

@@ -1,3 +1,6 @@
+- [ ] How to make  form to enter data into multiple tables.
+- [ ] How to insert existing data into a database.
+
 Possible limitations when scale increases.
 
 Can do querying. Which might be hard to do in excel.
