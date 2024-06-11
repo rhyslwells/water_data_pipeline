@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "interview prep/Setting up infrastructure.md",
+                "file": "interview prep/Veolia Nevis Info.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "interview prep/Setting up infrastructure.md",
+                "file": "interview prep/Veolia Nevis Info.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "interview prep/Setting up infrastructure.md"
+                "file": "interview prep/Veolia Nevis Info.md"
               }
             }
           },
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "interview prep/Setting up infrastructure.md",
+                "file": "interview prep/Veolia Nevis Info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "interview prep/Setting up infrastructure.md",
+                "file": "interview prep/Veolia Nevis Info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,8 +227,9 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "0e0edae863fe62bf",
+  "active": "c1b62b58193264ce",
   "lastOpenFiles": [
+    "interview prep/Setting up infrastructure.md",
     "practice/MS_Access/Microsoft access.md",
     "interview prep/Case study questions.md",
     "Pasted image 20240610204710.png",
@@ -260,7 +261,6 @@
     "ER Diagrams.md",
     "data_storage/GMMC/GMMC.md",
     "prontoforms.md",
-    "interview prep/Setting up infrastructure.md",
     "interview prep/Interview questions from me.md",
     "Microsoft access.md",
     "interview prep/Veolia Nevis Info.md",
