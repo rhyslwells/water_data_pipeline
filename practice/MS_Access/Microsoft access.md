@@ -1,17 +1,17 @@
-- [ ] How to make  form to enter data into multiple tables.
+
 - [ ] How to insert existing data into a database.
-- [ ] access how to update multiple related tables
+- [ ] How to update multiple related tables
+- [ ] Investigate Helper table to gather many small tables into one.
+- [ ] What are typical types of databases.
+- [ ] Questions: Make a form that accesses multiple tables
 
-How to add data to a table:
-
-
-
-Possible limitations when scale increases.
-
-Can do querying. Which might be hard to do in excel.
-
+### Resources
 [Tutorial](https://www.youtube.com/watch?v=ubmwp8kbfPc)
 
+### Notes
+
+Possible limitations when scale increases.
+Can do querying. Which might be hard to do in excel.
 Graphical way to make queries.
 Reporting too.
 I lots of data want a database.
@@ -32,24 +32,21 @@ forms- opening other forms, drop downs, user interface
 Reports used for presenting
 
 
-Questions: Make a form that accesses multiple tables
-
-==Types of databases?==
 
 
-### Association database
 
-Features (tracking): memberships, events, paying, attendance
 
-Tables: people (types), memberships, invoices
+### Updating multiple tables:
 
-![[Pasted image 20240610203906.png]]
+
+
+
+### Database Planning
+
 
 ![[Pasted image 20240610204339.png]]
 
-Helper table to gather many.
-
-Form planning
+### Form Planning
 
 ![[Pasted image 20240610204710.png]]
 
