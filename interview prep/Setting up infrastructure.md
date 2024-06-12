@@ -3,7 +3,7 @@ Starting from a scenario where the data infrastructure is minimal and primarily 
 ### 1. Assess Current Data
 
 - **Inventory**: Take stock of all Excel files and Access databases. Identify key datasets, their relationships, and data volumes.
-- **Quality Check**: Evaluate the quality and consistency of the data. Identify any immediate issues like duplicates, missing values, or inconsistent formatting.
+- **Quality Check**: Evaluate the quality and consistency of the data. Identify any immediate issues like ==duplicates==, missing values, or inconsistent formatting.
 
 ### 2. Centralize Data Storage
 
@@ -15,7 +15,7 @@ Starting from a scenario where the data infrastructure is minimal and primarily 
 ### 3. Data Migration
 
 - **ETL (Extract, Transform, Load) Tools**: Use ETL tools to migrate data from Excel and Access to the chosen RDBMS. Tools like **Talend**, **Apache Nifi**, or **Pentaho Data Integration** can facilitate this process.
-- **Scripts**: For simpler tasks, Python scripts using libraries like **pandas** and **SQLAlchemy** can be used to load data into the database.
+- ==**Scripts**: For simpler tasks, Python scripts== using libraries like **pandas** and **SQLAlchemy** can be used to load data into the database.
 
 ### 4. Data Integration and Automation
 

@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "7c1a7e7d04ed8e21",
+        "id": "89db4dcb18367c00",
         "type": "tabs",
         "children": [
           {
-            "id": "f547e87922f7073c",
+            "id": "11e709bdf704753c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "interview prep/Interview overview.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +95,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "interview prep/Interview overview.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -150,7 +156,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "interview prep/Interview overview.md"
+              }
             }
           },
           {
@@ -159,6 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "interview prep/Interview overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,6 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "interview prep/Interview overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,18 +213,20 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "f547e87922f7073c",
+  "active": "c1b62b58193264ce",
   "lastOpenFiles": [
+    "interview prep/Interview questions from me.md",
+    "interview prep/Setting up infrastructure.md",
+    "README.md",
+    "interview prep/Veolia Nevis Info.md",
+    "interview prep/Interview overview.md",
+    "interview prep/Case study questions.md",
     "Untitled.md",
     "Untitled 1.md",
     "practice/MS_Access/Microsoft access.md",
-    "interview prep/Case study questions.md",
-    "interview prep/Interview overview.md",
-    "interview prep/Setting up infrastructure.md",
     "data_storage/GMMC/er_diagram.md",
     "imgs/Pasted image 20240610203906.png",
     "imgs",
-    "interview prep/Veolia Nevis Info.md",
     "imgs/Pasted image 20240610204710.png",
     "imgs/Pasted image 20240610204339.png",
     "practice/excel/excel.md",
@@ -233,7 +245,6 @@
     "practice/PowerBI/Kevin Cookie Company Financials.xlsx",
     "coverletter del later.md",
     "excel.md",
-    "README.md",
     "docs/prontoforms.md",
     "data_storage/GMMC/processed_data/er_diagram.md",
     "data_storage/GMMC/processed_data/er_diagram.png",
@@ -241,7 +252,6 @@
     "ER Diagrams.md",
     "data_storage/GMMC/GMMC.md",
     "prontoforms.md",
-    "interview prep/Interview questions from me.md",
     "Microsoft access.md",
     "Water solutions.md",
     "docs/API.md",
