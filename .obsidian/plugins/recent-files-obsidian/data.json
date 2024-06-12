@@ -5,6 +5,18 @@
       "path": "interview prep/Case study questions.md"
     },
     {
+      "basename": "Interview overview",
+      "path": "interview prep/Interview overview.md"
+    },
+    {
+      "basename": "Setting up infrastructure",
+      "path": "interview prep/Setting up infrastructure.md"
+    },
+    {
+      "basename": "er_diagram",
+      "path": "data_storage/GMMC/er_diagram.md"
+    },
+    {
       "basename": "Untitled 1",
       "path": "Untitled 1.md"
     },
@@ -15,14 +27,6 @@
     {
       "basename": "Untitled",
       "path": "Untitled.md"
-    },
-    {
-      "basename": "Interview overview",
-      "path": "interview prep/Interview overview.md"
-    },
-    {
-      "basename": "Setting up infrastructure",
-      "path": "interview prep/Setting up infrastructure.md"
     },
     {
       "basename": "Veolia Nevis Info",
@@ -195,10 +199,6 @@
     {
       "basename": "Scaling databases",
       "path": "4_Engineering/Scaling databases.md"
-    },
-    {
-      "basename": "SQLite",
-      "path": "SQL/SQLite.md"
     }
   ],
   "omittedPaths": [],
