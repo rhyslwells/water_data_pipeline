@@ -19,16 +19,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0e0edae863fe62bf",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "imgs/Pasted image 20240610203906.png"
-              }
-            }
           }
         ]
       }
@@ -225,9 +215,9 @@
   },
   "active": "babf4a142a3aa331",
   "lastOpenFiles": [
-    "Untitled.md",
-    "interview prep/Case study questions.md",
     "imgs/Pasted image 20240610203906.png",
+    "interview prep/Case study questions.md",
+    "Untitled.md",
     "imgs",
     "interview prep/Interview overview.md",
     "interview prep/Setting up infrastructure.md",
@@ -264,7 +254,6 @@
     "Microsoft access.md",
     "Water solutions.md",
     "docs/API.md",
-    "docs/Clean before ER diagram.md",
     "docs/GMMC_er_diagram.png",
     "2_Projects/Learning_repo/Learning repo canvas.canvas",
     "0_Archive/imgs/Pasted image 20240411093348.png",
