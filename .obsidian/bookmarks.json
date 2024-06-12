@@ -11,11 +11,6 @@
       "ctime": 1683266343342
     },
     {
-      "type": "folder",
-      "ctime": 1704489325547,
-      "path": "0_Archive/Templates"
-    },
-    {
       "type": "file",
       "ctime": 1705406433852,
       "path": "1_Inbox/5_Projects/Todo.md"
@@ -34,6 +29,11 @@
       "type": "file",
       "ctime": 1716575556024,
       "path": "0_Archive/linkedin postings.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1718136497585,
+      "path": "interview prep/Case study questions.md"
     }
   ]
 }

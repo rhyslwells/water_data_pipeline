@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Veolia Nevis Info",
-      "path": "interview prep/Veolia Nevis Info.md"
+      "basename": "Case study questions",
+      "path": "interview prep/Case study questions.md"
+    },
+    {
+      "basename": "Pasted image 20240610203906",
+      "path": "imgs/Pasted image 20240610203906.png"
+    },
+    {
+      "basename": "Interview overview",
+      "path": "interview prep/Interview overview.md"
     },
     {
       "basename": "Setting up infrastructure",
       "path": "interview prep/Setting up infrastructure.md"
     },
     {
-      "basename": "Microsoft access",
-      "path": "practice/MS_Access/Microsoft access.md"
+      "basename": "Veolia Nevis Info",
+      "path": "interview prep/Veolia Nevis Info.md"
     },
     {
-      "basename": "Case study questions",
-      "path": "interview prep/Case study questions.md"
+      "basename": "Microsoft access",
+      "path": "practice/MS_Access/Microsoft access.md"
     },
     {
       "basename": "excel",
@@ -59,10 +67,6 @@
     {
       "basename": "Microsoft access",
       "path": "Microsoft access.md"
-    },
-    {
-      "basename": "Interview overview",
-      "path": "interview prep/Interview overview.md"
     },
     {
       "basename": "API",
@@ -195,10 +199,6 @@
     {
       "basename": "Indexing",
       "path": "SQL/Indexing.md"
-    },
-    {
-      "basename": "ER Diagrams",
-      "path": "SQL/ER Diagrams.md"
     }
   ],
   "omittedPaths": [],

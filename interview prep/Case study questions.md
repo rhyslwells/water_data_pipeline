@@ -4,7 +4,7 @@ Use STAR model.
 **Scenario:** You are responsible for extracting data from a network of remote data monitoring equipment. Recently, you noticed inconsistencies and missing data points in the datasets.
 
 **Question:** How would you approach identifying and resolving these inconsistencies?
-**Example Response:** I would start by conducting an initial data quality assessment to identify patterns in the inconsistencies. Then, I would cross-reference with historical data and source data to pinpoint the root causes. Implementing data validation rules and automated scripts to flag anomalies will be essential for ongoing monitoring.
+**Example Response:** I would start by conducting an initial data quality assessment to identify patterns in the inconsistencies. Then, I would ==cross-reference with historical data and source data to pinpoint the root causes.== Implementing data validation rules and ==automated scripts to flag anomalies== will be essential for ongoing monitoring.
 
 **Question:** Describe the process you would use to clean the data.
 **Example Response:** My process includes identifying missing or incorrect values, using statistical methods or machine learning models to estimate or correct these values, and ensuring consistency by standardizing formats. I would use Python libraries like Pandas and data quality tools such as Talend.
