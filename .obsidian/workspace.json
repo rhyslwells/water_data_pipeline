@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "fcde1de0129d5edf",
+        "id": "7c1a7e7d04ed8e21",
         "type": "tabs",
         "children": [
           {
-            "id": "babf4a142a3aa331",
+            "id": "f547e87922f7073c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "practice/MS_Access/Microsoft access.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -78,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 358.5,
-    "collapsed": true
+    "width": 358.5
   },
   "right": {
     "id": "5b13eed461f71e5a",
@@ -96,7 +90,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "practice/MS_Access/Microsoft access.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -157,9 +150,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "practice/MS_Access/Microsoft access.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,7 +159,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "practice/MS_Access/Microsoft access.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +175,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "practice/MS_Access/Microsoft access.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,18 +203,18 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "babf4a142a3aa331",
+  "active": "f547e87922f7073c",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Untitled 1.md",
+    "practice/MS_Access/Microsoft access.md",
     "interview prep/Case study questions.md",
     "interview prep/Interview overview.md",
     "interview prep/Setting up infrastructure.md",
     "data_storage/GMMC/er_diagram.md",
-    "Untitled 1.md",
     "imgs/Pasted image 20240610203906.png",
-    "Untitled.md",
     "imgs",
     "interview prep/Veolia Nevis Info.md",
-    "practice/MS_Access/Microsoft access.md",
     "imgs/Pasted image 20240610204710.png",
     "imgs/Pasted image 20240610204339.png",
     "practice/excel/excel.md",
