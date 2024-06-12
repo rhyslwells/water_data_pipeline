@@ -7,20 +7,20 @@ Use STAR model.
 **Example Response:** I would start by conducting an initial data quality assessment to identify patterns in the inconsistencies. Then, I would ==cross-reference with historical data and source data to pinpoint the root causes.== Implementing data validation rules and ==automated scripts to flag anomalies== will be essential for ongoing monitoring.
 
 **Question:** Describe the process you would use to clean the data.
-**Example Response:** My process includes identifying missing or incorrect values, using statistical methods or machine learning models to estimate or correct these values, and ensuring consistency by standardizing formats. I would use Python libraries like Pandas and data quality tools such as Talend.
+**Example Response:** My process includes identifying missing or incorrect values, using statistical methods or machine learning models to estimate or correct these values, and ensuring consistency by standardizing formats. I would use Python libraries like Pandas. ==Percentage missing. Capitals and trimming.==
 
 **Question:** What tools and techniques would you use to automate data extraction and ensure its accuracy?
-**Example Response:** I would use ETL tools like Apache NiFi for automation, combined with scripting in Python for custom extraction tasks. Implementing data validation checks at each stage of the ETL process ensures accuracy, while regular audits help maintain data integrity.
+**Example Response:** I would use ETL tools and ==scripting== in Python for custom extraction tasks. Implementing data validation checks at each stage of the ETL process ensures accuracy, while regular audits help maintain data integrity.
 
 ### 2. Data Analysis and Reporting
 
 **Scenario:** You need to prepare monthly internal reports and quarterly billing reports based on the extracted data.
 
 **Question:** What steps would you take to ensure the accuracy and reliability of these reports?
-**Example Response:** To ensure accuracy, I would implement a data validation process, including cross-referencing with source data, performing statistical checks for anomalies, and conducting peer reviews of the reports. Consistent documentation of methodologies and version control would support reliability.
+**Example Response:** To ensure accuracy, I would implement a data validation process, including cross-referencing with source data, ==performing statistical checks for anomalies==, and conducting peer reviews of the reports. ==Consistent documentation of methodologies== and version control would support reliability.
 
 **Question:** How would you design a dashboard to present this data effectively to stakeholders?
-**Example Response:** I would focus on clarity and usability, using Power BI to create interactive dashboards. Key metrics would be highlighted using visualizations like charts and graphs, and filters would allow stakeholders to drill down into specific data points. User feedback would be integral to iterative improvements.
+**Example Response:** I would focus on clarity and usability, using Power BI to create interactive dashboards. ==Key metrics== would be highlighted using visualizations like charts and graphs, and filters would allow stakeholders to drill down into specific data points. ==User feedback== would be integral to iterative improvements.
 
 **Question:** Discuss a time when you had to analyze complex data sets and how you presented your findings.
 **Example Response:** At my previous job, I analyzed sales data to identify market trends. I used clustering algorithms to segment customers and created a Power BI dashboard to present insights. The visualizations highlighted key trends and facilitated strategic decision-making by the sales team.
@@ -30,10 +30,10 @@ Use STAR model.
 **Scenario:** The team is looking to improve data handling and digitalization processes. You are tasked with identifying and implementing new software or processes.
 
 **Question:** How would you evaluate the current data handling processes and identify areas for improvement?
-**Example Response:** I would conduct a process audit, mapping out current workflows and identifying bottlenecks and inefficiencies. Feedback from team members would help pinpoint pain points. I would then benchmark these findings against industry best practices to recommend improvements.
+**Example Response:** I would conduct a process audit, mapping out current workflows and identifying bottlenecks and inefficiencies. ==Feedback== from team members would help pinpoint pain points. I would then benchmark these findings against industry best practices to recommend improvements.
 
 **Question:** What criteria would you use to select new software or tools for data management?
-**Example Response:** Criteria would include compatibility with existing systems, scalability, ease of use, cost, and vendor support. I would also consider user feedback and conduct pilot testing to ensure the tool meets our requirements effectively.
+**Example Response:** Criteria would include ==compatibility with existing systems==, scalability, ease of use, ==cost==, and vendor support. I would also consider user feedback and conduct ==POC== pilot testing to ensure the tool meets our requirements effectively.
 
 **Question:** Provide an example of a digitalization project you have led or been a part of. What were the challenges and outcomes?
 **Example Response:** I led a project to digitalize paper-based inspection forms using Prontoforms. Challenges included resistance to change and initial data integration issues. By providing training and working closely with the IT team, we successfully transitioned to digital forms, resulting in a 30% increase in data collection efficiency.
@@ -82,7 +82,7 @@ Use STAR model.
 **Scenario:** You need to support wider aspects of Technical Services activities and conduct regular site visits.
 
 **Question:** How would you ensure effective communication and collaboration with other teams during site visits?
-**Example Response:** I would schedule regular meetings and updates with relevant teams before and after site visits. Using collaborative tools like Slack and shared documents ensures everyone stays informed. Clear documentation of visit outcomes and action items would facilitate ongoing collaboration.
+**Example Response:** I would schedule ==regular meetings and updates with relevant teams== before and after site visits. Using collaborative tools like Slack and shared documents ensures everyone stays informed. Clear documentation of visit outcomes and action items would facilitate ongoing collaboration.
 
 **Question:** Describe how you have handled cross-functional projects in the past.
 **Example Response:** I led a project integrating sales and logistics data. By establishing clear communication channels, setting common goals, and holding regular progress meetings, we ensured alignment and timely completion. This collaborative approach significantly improved data accuracy and reporting.

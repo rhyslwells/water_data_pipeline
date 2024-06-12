@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "interview prep/Interview overview.md",
+                "file": "interview prep/Case study questions.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "96d243b4ae36121c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ewrfw.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -95,7 +108,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "interview prep/Interview overview.md",
+                "file": "interview prep/Case study questions.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -157,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "interview prep/Interview overview.md"
+                "file": "interview prep/Case study questions.md"
               }
             }
           },
@@ -167,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "interview prep/Interview overview.md",
+                "file": "interview prep/Case study questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "interview prep/Interview overview.md",
+                "file": "interview prep/Case study questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,15 +226,15 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "c1b62b58193264ce",
+  "active": "11e709bdf704753c",
   "lastOpenFiles": [
+    "ewrfw.md",
+    "interview prep/Case study questions.md",
     "interview prep/Interview questions from me.md",
+    "interview prep/Interview overview.md",
     "interview prep/Setting up infrastructure.md",
     "README.md",
     "interview prep/Veolia Nevis Info.md",
-    "interview prep/Interview overview.md",
-    "interview prep/Case study questions.md",
-    "Untitled.md",
     "Untitled 1.md",
     "practice/MS_Access/Microsoft access.md",
     "data_storage/GMMC/er_diagram.md",
