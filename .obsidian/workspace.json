@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "interview prep/Case study questions.md",
+                "file": "practice/MS_Access/Microsoft access.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 358.5
+    "width": 358.5,
+    "collapsed": true
   },
   "right": {
     "id": "5b13eed461f71e5a",
@@ -95,7 +96,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "interview prep/Case study questions.md",
+                "file": "practice/MS_Access/Microsoft access.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -157,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "interview prep/Case study questions.md"
+                "file": "practice/MS_Access/Microsoft access.md"
               }
             }
           },
@@ -167,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "interview prep/Case study questions.md",
+                "file": "practice/MS_Access/Microsoft access.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "interview prep/Case study questions.md",
+                "file": "practice/MS_Access/Microsoft access.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,10 +216,10 @@
   },
   "active": "babf4a142a3aa331",
   "lastOpenFiles": [
+    "interview prep/Case study questions.md",
     "interview prep/Interview overview.md",
     "interview prep/Setting up infrastructure.md",
     "data_storage/GMMC/er_diagram.md",
-    "interview prep/Case study questions.md",
     "Untitled 1.md",
     "imgs/Pasted image 20240610203906.png",
     "Untitled.md",

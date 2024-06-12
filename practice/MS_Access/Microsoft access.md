@@ -1,5 +1,10 @@
 - [ ] How to make  form to enter data into multiple tables.
 - [ ] How to insert existing data into a database.
+- [ ] access how to update multiple related tables
+
+How to add data to a table:
+
+
 
 Possible limitations when scale increases.
 
