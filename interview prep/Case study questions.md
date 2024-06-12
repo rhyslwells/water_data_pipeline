@@ -84,8 +84,5 @@ Use STAR model.
 **Question:** How would you ensure effective communication and collaboration with other teams during site visits?
 **Example Response:** I would schedule ==regular meetings and updates with relevant teams== before and after site visits. Using collaborative tools like Slack and shared documents ensures everyone stays informed. Clear documentation of visit outcomes and action items would facilitate ongoing collaboration.
 
-**Question:** Describe how you have handled cross-functional projects in the past.
-**Example Response:** I led a project integrating sales and logistics data. By establishing clear communication channels, setting common goals, and holding regular progress meetings, we ensured alignment and timely completion. This collaborative approach significantly improved data accuracy and reporting.
-
 **Question:** What strategies would you use to balance your time between site visits and your other responsibilities?
-**Example Response:** Effective time management would be key, prioritizing tasks based on urgency and impact. Using tools like Trello for task tracking and setting specific goals for each site visit would help maintain a balance. Delegating tasks when necessary and maintaining clear communication with the team would ensure smooth operations.
+**Example Response:** Effective time management would be key, prioritizing tasks based on ==urgency and impact==. Using tools like Trello for task tracking and setting specific goals for each site visit would help maintain a balance. Delegating tasks when necessary and maintaining clear communication with the team would ensure smooth operations.
