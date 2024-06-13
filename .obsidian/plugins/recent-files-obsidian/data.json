@@ -2,11 +2,15 @@
   "recentFiles": [
     {
       "basename": "Interview notes",
-      "path": "Interview notes.md"
+      "path": "interview prep/Interview notes.md"
     },
     {
       "basename": "Case study questions",
       "path": "interview prep/Case study questions.md"
+    },
+    {
+      "basename": "Microsoft access",
+      "path": "practice/MS_Access/Microsoft access.md"
     },
     {
       "basename": "Interview questions from me",
@@ -27,10 +31,6 @@
     {
       "basename": "Veolia Nevis Info",
       "path": "interview prep/Veolia Nevis Info.md"
-    },
-    {
-      "basename": "Microsoft access",
-      "path": "practice/MS_Access/Microsoft access.md"
     },
     {
       "basename": "er_diagram",

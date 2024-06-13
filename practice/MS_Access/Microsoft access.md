@@ -1,5 +1,5 @@
 
-- [ ] How to update (or more so insert) into multiple related tables. How to insert existing data into a database.
+- [ ] How to update (or more so insert) into multiple related tables. How to insert existing data into a database. SQL triggers?
 
 [LINK](https://youtu.be/ymc9CYnziS4)
 

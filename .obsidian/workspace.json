@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "interview prep/Case study questions.md",
+                "file": "interview prep/Interview notes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -26,15 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview notes.md",
+                "file": "practice/MS_Access/Microsoft access.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 358.5,
-    "collapsed": true
+    "width": 358.5
   },
   "right": {
     "id": "5b13eed461f71e5a",
@@ -110,7 +108,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Interview notes.md",
+                "file": "interview prep/Interview notes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -172,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview notes.md"
+                "file": "interview prep/Interview notes.md"
               }
             }
           },
@@ -182,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview notes.md",
+                "file": "interview prep/Interview notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview notes.md",
+                "file": "interview prep/Interview notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,17 +226,17 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "96d243b4ae36121c",
+  "active": "c1b62b58193264ce",
   "lastOpenFiles": [
     "interview prep/Case study questions.md",
-    "Interview notes.md",
+    "practice/MS_Access/Microsoft access.md",
+    "interview prep/Interview notes.md",
     "interview prep/Interview questions from me.md",
     "interview prep/Interview overview.md",
     "interview prep/Setting up infrastructure.md",
     "README.md",
     "interview prep/Veolia Nevis Info.md",
     "Untitled 1.md",
-    "practice/MS_Access/Microsoft access.md",
     "data_storage/GMMC/er_diagram.md",
     "imgs/Pasted image 20240610203906.png",
     "imgs",
