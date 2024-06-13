@@ -11,6 +11,7 @@ Source of true - syncing issues - use a data warehouse.
 Data workflow - design.
 Version control design.
 Good to understand when data needs to be ready for reports.
+Optimising queries for speed. 
 
 ### Gathering data from clients
 
@@ -21,7 +22,8 @@ Understanding business requirements.
 	2) How often is this report, who is it for. Need to understand what they need.
 2) During asking why: Get an understanding of the business case. What decisions are being made from the data.
 	1) Need to understand the problems. What does success look like. What needs to exist.
-3) Who are the stakeholders. What are you going to do with the data
+3) Who are the stakeholders. What are you going to do with the data. Is it important enough to do.
+4) What is the value added.
 
 ### Vocab of data engineer
 
