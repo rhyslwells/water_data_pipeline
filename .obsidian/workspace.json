@@ -26,14 +26,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ewrfw.md",
+                "file": "Interview notes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 358.5
+    "width": 358.5,
+    "collapsed": true
   },
   "right": {
     "id": "5b13eed461f71e5a",
@@ -108,7 +110,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "interview prep/Case study questions.md",
+                "file": "Interview notes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -170,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "interview prep/Case study questions.md"
+                "file": "Interview notes.md"
               }
             }
           },
@@ -180,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "interview prep/Case study questions.md",
+                "file": "Interview notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "interview prep/Case study questions.md",
+                "file": "Interview notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,10 +228,10 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "11e709bdf704753c",
+  "active": "96d243b4ae36121c",
   "lastOpenFiles": [
-    "ewrfw.md",
     "interview prep/Case study questions.md",
+    "Interview notes.md",
     "interview prep/Interview questions from me.md",
     "interview prep/Interview overview.md",
     "interview prep/Setting up infrastructure.md",
