@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Interview notes",
+      "path": "interview prep/Interview notes.md"
+    },
+    {
+      "basename": "Interview overview",
+      "path": "interview prep/Interview overview.md"
+    },
+    {
+      "basename": "Interview questions from me",
+      "path": "interview prep/Interview questions from me.md"
+    },
+    {
+      "basename": "Water consumption data",
+      "path": "interview prep/Water consumption data.md"
+    },
+    {
       "basename": "Veolia Nevis Info",
       "path": "interview prep/Veolia Nevis Info.md"
     },
@@ -41,20 +57,8 @@
       "path": "practice/MS_Access/Microsoft access.md"
     },
     {
-      "basename": "Interview notes",
-      "path": "interview prep/Interview notes.md"
-    },
-    {
       "basename": "Case study questions",
       "path": "interview prep/Case study questions.md"
-    },
-    {
-      "basename": "Interview questions from me",
-      "path": "interview prep/Interview questions from me.md"
-    },
-    {
-      "basename": "Interview overview",
-      "path": "interview prep/Interview overview.md"
     },
     {
       "basename": "Setting up infrastructure",
@@ -195,10 +199,6 @@
     {
       "basename": "Data warehouse",
       "path": "Databases/Data warehouse.md"
-    },
-    {
-      "basename": "Snowflake",
-      "path": "3_DS Notes/Snowflake.md"
     }
   ],
   "omittedPaths": [],
