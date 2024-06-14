@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "89db4dcb18367c00",
+        "id": "379b1b30f3607fd0",
         "type": "tabs",
         "children": [
           {
-            "id": "11e709bdf704753c",
+            "id": "14047926b8fdd89b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "practice/MS_Access/Microsoft access.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "96d243b4ae36121c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "practice/MS_Access/Microsoft access.md",
+                "file": "interview prep/Veolia Nevis Info.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -108,7 +95,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "practice/MS_Access/Microsoft access.md",
+                "file": "interview prep/Veolia Nevis Info.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -170,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "practice/MS_Access/Microsoft access.md"
+                "file": "interview prep/Veolia Nevis Info.md"
               }
             }
           },
@@ -180,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "practice/MS_Access/Microsoft access.md",
+                "file": "interview prep/Veolia Nevis Info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "practice/MS_Access/Microsoft access.md",
+                "file": "interview prep/Veolia Nevis Info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,11 +213,23 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "c1b62b58193264ce",
+  "active": "14047926b8fdd89b",
   "lastOpenFiles": [
+    "practice/SQL/ACID of Transactions.md",
+    "practice/SQL/ER Diagrams.md",
+    "practice/SQL/Indexing.md",
+    "practice/SQL/Querying.md",
+    "practice/SQL/SQLite.md",
+    "practice/SQL/Subquerying.md",
+    "practice/SQL/Views.md",
+    "practice/PowerBI/PowerBI.md",
+    "practice/excel/~$Pivot Tables.xlsx",
+    "practice/excel/excel.md",
+    "practice/excel/~$Kevin Cookie Company Financials.xlsx",
+    "practice/excel/~$Excel Formulas and Functions.xlsx",
+    "practice/MS_Access/Microsoft access.md",
     "interview prep/Interview notes.md",
     "interview prep/Case study questions.md",
-    "practice/MS_Access/Microsoft access.md",
     "interview prep/Interview questions from me.md",
     "interview prep/Interview overview.md",
     "interview prep/Setting up infrastructure.md",
@@ -242,11 +241,8 @@
     "imgs",
     "imgs/Pasted image 20240610204710.png",
     "imgs/Pasted image 20240610204339.png",
-    "practice/excel/excel.md",
-    "practice/excel/~$Kevin Cookie Company Financials.xlsx",
     "practice/excel/58443660",
     "practice/excel/16E03660",
-    "practice/excel/~$Excel Formulas and Functions.xlsx",
     "data_storage/Data storage outline.md",
     "cleaning/Data cleaning.md",
     "capture/Data capture.md",
@@ -254,20 +250,11 @@
     "practice/PowerBI/cookie report.pbix",
     "practice/PowerBI/4973AC50",
     "practice/PowerBI/~$Kevin Cookie Company Financials.xlsx",
-    "practice/PowerBI/PowerBI.md",
-    "practice/PowerBI/Kevin Cookie Company Financials.xlsx",
     "coverletter del later.md",
     "excel.md",
     "docs/prontoforms.md",
     "data_storage/GMMC/processed_data/er_diagram.md",
     "data_storage/GMMC/processed_data/er_diagram.png",
-    "docs/ER diagram maker.md",
-    "ER Diagrams.md",
-    "data_storage/GMMC/GMMC.md",
-    "prontoforms.md",
-    "Microsoft access.md",
-    "Water solutions.md",
-    "docs/API.md",
     "docs/GMMC_er_diagram.png",
     "2_Projects/Learning_repo/Learning repo canvas.canvas",
     "0_Archive/imgs/Pasted image 20240411093348.png",

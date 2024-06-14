@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "Veolia Nevis Info",
+      "path": "interview prep/Veolia Nevis Info.md"
+    },
+    {
+      "basename": "ACID of Transactions",
+      "path": "practice/SQL/ACID of Transactions.md"
+    },
+    {
+      "basename": "ER Diagrams",
+      "path": "practice/SQL/ER Diagrams.md"
+    },
+    {
+      "basename": "Indexing",
+      "path": "practice/SQL/Indexing.md"
+    },
+    {
+      "basename": "Querying",
+      "path": "practice/SQL/Querying.md"
+    },
+    {
+      "basename": "Subquerying",
+      "path": "practice/SQL/Subquerying.md"
+    },
+    {
+      "basename": "Views",
+      "path": "practice/SQL/Views.md"
+    },
+    {
+      "basename": "PowerBI",
+      "path": "practice/PowerBI/PowerBI.md"
+    },
+    {
+      "basename": "excel",
+      "path": "practice/excel/excel.md"
+    },
+    {
       "basename": "Microsoft access",
       "path": "practice/MS_Access/Microsoft access.md"
     },
@@ -29,20 +65,12 @@
       "path": "README.md"
     },
     {
-      "basename": "Veolia Nevis Info",
-      "path": "interview prep/Veolia Nevis Info.md"
-    },
-    {
       "basename": "er_diagram",
       "path": "data_storage/GMMC/er_diagram.md"
     },
     {
       "basename": "Pasted image 20240610203906",
       "path": "imgs/Pasted image 20240610203906.png"
-    },
-    {
-      "basename": "excel",
-      "path": "practice/excel/excel.md"
     },
     {
       "basename": "Data storage outline",
@@ -171,30 +199,6 @@
     {
       "basename": "Snowflake",
       "path": "3_DS Notes/Snowflake.md"
-    },
-    {
-      "basename": "Storage solutions",
-      "path": "4_Engineering/Storage solutions.md"
-    },
-    {
-      "basename": "Relating tables",
-      "path": "Databases/Relating tables.md"
-    },
-    {
-      "basename": "Optimisation",
-      "path": "Databases/Optimisation.md"
-    },
-    {
-      "basename": "ACID of Transactions",
-      "path": "SQL/ACID of Transactions.md"
-    },
-    {
-      "basename": "MySql",
-      "path": "SQL/MySql.md"
-    },
-    {
-      "basename": "Scaling databases",
-      "path": "4_Engineering/Scaling databases.md"
     }
   ],
   "omittedPaths": [],
