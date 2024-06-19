@@ -1,74 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "Case study questions",
-      "path": "interview prep/Case study questions.md"
-    },
-    {
-      "basename": "Interview 1 notes",
-      "path": "interview prep/Interview 1 notes.md"
-    },
-    {
-      "basename": "Interview notes",
-      "path": "interview prep/Interview notes.md"
-    },
-    {
-      "basename": "Interview overview",
-      "path": "interview prep/Interview overview.md"
-    },
-    {
-      "basename": "Interview questions from me",
-      "path": "interview prep/Interview questions from me.md"
-    },
-    {
-      "basename": "Water consumption data",
-      "path": "interview prep/Water consumption data.md"
-    },
-    {
-      "basename": "Veolia Nevis Info",
-      "path": "interview prep/Veolia Nevis Info.md"
-    },
-    {
-      "basename": "ACID of Transactions",
-      "path": "practice/SQL/ACID of Transactions.md"
-    },
-    {
-      "basename": "ER Diagrams",
-      "path": "practice/SQL/ER Diagrams.md"
-    },
-    {
-      "basename": "Indexing",
-      "path": "practice/SQL/Indexing.md"
-    },
-    {
-      "basename": "Querying",
-      "path": "practice/SQL/Querying.md"
-    },
-    {
-      "basename": "Subquerying",
-      "path": "practice/SQL/Subquerying.md"
-    },
-    {
-      "basename": "Views",
-      "path": "practice/SQL/Views.md"
-    },
-    {
-      "basename": "PowerBI",
-      "path": "practice/PowerBI/PowerBI.md"
-    },
-    {
-      "basename": "excel",
-      "path": "practice/excel/excel.md"
-    },
-    {
-      "basename": "Microsoft access",
-      "path": "practice/MS_Access/Microsoft access.md"
-    },
-    {
-      "basename": "Setting up infrastructure",
-      "path": "interview prep/Setting up infrastructure.md"
-    },
-    {
       "basename": "README",
       "path": "README.md"
     },
@@ -101,56 +33,12 @@
       "path": "excel.md"
     },
     {
-      "basename": "ER diagram maker",
-      "path": "docs/ER diagram maker.md"
-    },
-    {
       "basename": "GMMC",
       "path": "data_storage/GMMC/GMMC.md"
     },
     {
       "basename": "Microsoft access",
       "path": "Microsoft access.md"
-    },
-    {
-      "basename": "API",
-      "path": "docs/API.md"
-    },
-    {
-      "basename": "Clean before ER diagram",
-      "path": "docs/Clean before ER diagram.md"
-    },
-    {
-      "basename": "ETL Pipeline example",
-      "path": "docs/ETL Pipeline example.md"
-    },
-    {
-      "basename": "GIS",
-      "path": "docs/GIS.md"
-    },
-    {
-      "basename": "GMMC_er_diagram",
-      "path": "docs/GMMC_er_diagram.png"
-    },
-    {
-      "basename": "Key Differences of Web Feature Server (WFS) and Web Feature Server (WFS)",
-      "path": "docs/Key Differences of Web Feature Server (WFS) and Web Feature Server (WFS).md"
-    },
-    {
-      "basename": "shapefile",
-      "path": "docs/shapefile.md"
-    },
-    {
-      "basename": "Web Feature Server (WFS)",
-      "path": "docs/Web Feature Server (WFS).md"
-    },
-    {
-      "basename": "Web Map Tile Service (WMTS)",
-      "path": "docs/Web Map Tile Service (WMTS).md"
-    },
-    {
-      "basename": "PostgreSQL set up",
-      "path": "docs/PostgreSQL set up.md"
     },
     {
       "basename": "GMMC-2020-M",

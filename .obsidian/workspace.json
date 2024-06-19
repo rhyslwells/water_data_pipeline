@@ -13,23 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "interview prep/Case study questions.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "8c89671bfe802b97",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,6 +95,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -164,7 +156,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -173,6 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,6 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,9 +213,11 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "8c89671bfe802b97",
+  "active": "14047926b8fdd89b",
   "lastOpenFiles": [
     "interview prep/Case study questions.md",
+    "README.md",
+    "Untitled Diagram.drawio",
     "interview prep/Interview 1 notes.md",
     "interview prep/Interview notes.md",
     "interview prep/Interview overview.md",
@@ -240,7 +238,6 @@
     "practice/excel/~$Excel Formulas and Functions.xlsx",
     "practice/MS_Access/Microsoft access.md",
     "interview prep/Setting up infrastructure.md",
-    "README.md",
     "Untitled 1.md",
     "data_storage/GMMC/er_diagram.md",
     "imgs/Pasted image 20240610203906.png",
@@ -255,9 +252,7 @@
     "cleaning/cleaning_script.py",
     "practice/PowerBI/cookie report.pbix",
     "practice/PowerBI/4973AC50",
-    "practice/PowerBI/~$Kevin Cookie Company Financials.xlsx",
     "coverletter del later.md",
-    "excel.md",
     "data_storage/GMMC/processed_data/er_diagram.png",
     "docs/GMMC_er_diagram.png",
     "2_Projects/Learning_repo/Learning repo canvas.canvas",
