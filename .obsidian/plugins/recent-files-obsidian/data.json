@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Case study questions",
+      "path": "interview prep/Case study questions.md"
+    },
+    {
+      "basename": "Interview 1 notes",
+      "path": "interview prep/Interview 1 notes.md"
+    },
+    {
       "basename": "Interview notes",
       "path": "interview prep/Interview notes.md"
     },
@@ -55,10 +63,6 @@
     {
       "basename": "Microsoft access",
       "path": "practice/MS_Access/Microsoft access.md"
-    },
-    {
-      "basename": "Case study questions",
-      "path": "interview prep/Case study questions.md"
     },
     {
       "basename": "Setting up infrastructure",
@@ -195,10 +199,6 @@
     {
       "basename": "ETL",
       "path": "4_Engineering/ETL.md"
-    },
-    {
-      "basename": "Data warehouse",
-      "path": "Databases/Data warehouse.md"
     }
   ],
   "omittedPaths": [],
